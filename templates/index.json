@@ -1,0 +1,358 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/topbanner_pc_Apparel.png",
+            "subheading": "Feature Product",
+            "title": "GBH Apparel",
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "View Products",
+            "button_1_link": "",
+            "button_1_style": "link",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "link",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/topbanner_pc_Cosme1.png",
+            "subheading": "Feature Product",
+            "title": "GBH Cosmetics 1",
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "View Products",
+            "button_1_link": "",
+            "button_1_style": "link",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_iUXDng": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/topbanner_pc_Cosme2.png",
+            "subheading": "Featured Product",
+            "title": "GBH Cosmetics 2",
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "View Products",
+            "button_1_link": "",
+            "button_1_style": "link",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_WyXUCx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/topbanner_pc_Cosme5.png",
+            "subheading": "Featured Product",
+            "title": "GBH Cosmetics 5",
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "View Products",
+            "button_1_link": "",
+            "button_1_style": "link",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_iCmgPM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/topbanner_pc_Home_2.png",
+            "subheading": "Featured Product",
+            "title": "GBH Home 1",
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "View Details",
+            "button_1_link": "",
+            "button_1_style": "link",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_xqfkN9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/topbanner_pc_Home_4.png",
+            "subheading": "Featured Product",
+            "title": "GBH Home 2",
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "content_max_width": 780,
+            "button_1_text": "View Products",
+            "button_1_link": "",
+            "button_1_style": "link",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2",
+        "image_iUXDng",
+        "image_WyXUCx",
+        "image_iCmgPM",
+        "image_xqfkN9"
+      ],
+      "custom_css": [
+        ".prose :where(:not(meta, span) + *) {margin-block-start: 0;}",
+        ".content-over-media {row-gap: 2rem;}"
+      ],
+      "settings": {
+        "allow_transparent_header": false,
+        "show_next_section_button": false,
+        "media_size": "auto",
+        "show_initial_transition": false,
+        "autoplay": true,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 7,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "featured_collections_4wBUBq": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_cNJcLT": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "products_count": 4,
+            "title": "New Arrival",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_cNJcLT"
+      ],
+      "custom_css": [
+        ".collection__title.title-wrapper {text-align: center;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "featured_collections_bEYV7N": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_xHyM3Y": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "products_count": 8,
+            "title": "Ranking",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_xHyM3Y"
+      ],
+      "custom_css": [
+        ".collection__title.title-wrapper {text-align: center;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "collection_list_3qEx9j": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_kPkWKR": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/HOME_BANNER_3.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "HOME",
+            "button_link": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection_47jPAj": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/Apparel_BANNER_2.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "APPAREL",
+            "button_link": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "collection_wRGNH9": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/COSME_BANNER.png",
+            "expand_collection": false,
+            "content_position": "place-self-end-center text-center",
+            "subheading": "",
+            "title": "",
+            "button_text": "COSMETICS",
+            "button_link": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "collection_kPkWKR",
+        "collection_47jPAj",
+        "collection_wRGNH9"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": true,
+        "collections_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "featured_collections_xRNw9c": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_bnqfHp": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "products_count": 8,
+            "title": "ALL PRODUCTS",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_bnqfHp"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured_collections_4wBUBq",
+    "featured_collections_bEYV7N",
+    "collection_list_3qEx9j",
+    "featured_collections_xRNw9c"
+  ]
+}
