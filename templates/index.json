@@ -7,6 +7,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/topbanner_pc_Apparel.png",
+            "mobile_image": "shopify:\/\/shop_images\/topbanner_sp_Apparel_1759bc1b-3672-4866-83f2-628de2a3bd59.png",
             "subheading": "Feature Product",
             "title": "GBH Apparel",
             "mobile_text_position": "place-self-end-center text-center",
@@ -33,6 +34,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/topbanner_pc_Cosme1.png",
+            "mobile_image": "shopify:\/\/shop_images\/topbanner_sp_Cosme1_b8b3f21a-ee9d-4870-9386-4866e9254e5e.png",
             "subheading": "Feature Product",
             "title": "GBH Cosmetics 1",
             "mobile_text_position": "place-self-end-center text-center",
@@ -59,6 +61,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/topbanner_pc_Cosme2.png",
+            "mobile_image": "shopify:\/\/shop_images\/topbanner_sp_Cosme2_cc3b02ea-9298-4554-bfba-29877a0c252f.png",
             "subheading": "Featured Product",
             "title": "GBH Cosmetics 2",
             "mobile_text_position": "place-self-end-center text-center",
@@ -85,6 +88,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/topbanner_pc_Cosme5.png",
+            "mobile_image": "shopify:\/\/shop_images\/topbanner_sp_Cosme5_eed6ed74-f1a1-41f0-ab92-e5d7ea7ce15f.png",
             "subheading": "Featured Product",
             "title": "GBH Cosmetics 5",
             "mobile_text_position": "place-self-end-center text-center",
@@ -111,8 +115,9 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/topbanner_pc_Home_2.png",
+            "mobile_image": "shopify:\/\/shop_images\/topbanner_sp_Home_2.png",
             "subheading": "Featured Product",
-            "title": "GBH Home 1",
+            "title": "GBH Home 2",
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "content_max_width": 780,
@@ -137,8 +142,9 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/topbanner_pc_Home_4.png",
+            "mobile_image": "shopify:\/\/shop_images\/topbanner_sp_Home_4_0c261e18-268e-4f57-b428-ae49de7af579.png",
             "subheading": "Featured Product",
-            "title": "GBH Home 2",
+            "title": "GBH Home 4",
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "content_max_width": 780,
