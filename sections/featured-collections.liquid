@@ -34,7 +34,7 @@
               {%- endfor -%}
             </carousel-navigation>
           {%- else -%}
-            <h2 class="h2">{{ section.blocks.first.settings.title | default: section.blocks.first.settings.collection.title | default: 'Collection' }}</h2>
+            <h2 class="h2 wow fadeIn" data-wow-delay=".6s" style="visibility: hidden">{{ section.blocks.first.settings.title | default: section.blocks.first.settings.collection.title | default: 'Collection' }}</h2>
           {%- endif -%}
         </div>
 
