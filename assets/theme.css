@@ -2306,7 +2306,7 @@ model-media model-viewer, model-media .shopify-model-viewer-ui {
 }
 
 .product-list--carousel {
-  --product-list-default-column-gap: 1.25rem;
+  --product-list-default-column-gap: 0.8rem;
   grid: auto / auto-flow var(--product-list-card-width);
   justify-content: safe center;
 }
@@ -2317,7 +2317,7 @@ model-media model-viewer, model-media .shopify-model-viewer-ui {
   }
 
   .product-list--carousel {
-    --product-list-card-width: min(300px, 65%);
+    --product-list-card-width: 40vw;
   }
 }
 
