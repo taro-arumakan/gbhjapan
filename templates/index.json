@@ -274,6 +274,9 @@
       "block_order": [
         "heading_iNaTwQ"
       ],
+      "custom_css": [
+        ".prose > p.h1 {font-size: 1.75rem;}"
+      ],
       "settings": {
         "color_scheme": "scheme-2",
         "image_size": "auto",
@@ -447,6 +450,9 @@
       "block_order": [
         "heading_bmeCMe"
       ],
+      "custom_css": [
+        ".prose > p.h1 {font-size: 1.75rem;}"
+      ],
       "settings": {
         "color_scheme": "scheme-2",
         "image_size": "auto",
@@ -615,6 +621,9 @@
       },
       "block_order": [
         "heading_6BDXaR"
+      ],
+      "custom_css": [
+        ".prose > p.h1 {font-size: 1.75rem;}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
