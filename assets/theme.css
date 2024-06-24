@@ -944,6 +944,7 @@ height-observer {
   max-width: var(--drawer-max-width);
   background-color: rgb(var(--background));
   background-image: var(--background-gradient);
+  opacity: 92%;
   color: rgb(var(--text-color));
   grid-auto-rows: auto minmax(0, 1fr) auto;
   align-content: start;
