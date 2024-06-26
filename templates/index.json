@@ -215,7 +215,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "hide_product_information": false,
         "stack_products": false,
         "products_per_row_mobile": "2",
@@ -233,7 +233,7 @@
           "settings": {
             "collection": "ranking-home",
             "products_count": 8,
-            "title": "RANKING",
+            "title": "BEST",
             "link_url": "",
             "link_text": "View all"
           }
@@ -250,7 +250,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "hide_product_information": false,
         "stack_products": false,
         "products_per_row_mobile": "2",
@@ -280,15 +280,16 @@
       "settings": {
         "color_scheme": "scheme-2",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/HOME_BANNER_2_30d49006-81d8-4061-9171-c1098457485b.png",
+        "image": "shopify:\/\/shop_images\/SP_Category_banner_home_5_8f699075-56b8-43a9-ab82-00c2a864cd7a.png",
+        "mobile_image": "shopify:\/\/shop_images\/HOME_BANNER_2.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
         "content_width": "md",
         "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "overlay_color": "#1c1c1c",
-        "overlay_opacity": 28
+        "overlay_opacity": 0
       }
     },
     "slideshow_YX7RFB": {
@@ -426,7 +427,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-4",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "hide_product_information": false,
         "stack_products": false,
         "products_per_row_mobile": "2",
@@ -442,7 +443,7 @@
         "heading_bmeCMe": {
           "type": "heading",
           "settings": {
-            "text": "COSMETICS",
+            "text": "COSME",
             "heading_tag": "h1"
           }
         }
@@ -456,7 +457,8 @@
       "settings": {
         "color_scheme": "scheme-2",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/COSME_BANNER_1_8ec98b53-76d9-4032-b712-3b989944280f.png",
+        "image": "shopify:\/\/shop_images\/SP_Category_banner_cosme_3.png",
+        "mobile_image": "shopify:\/\/shop_images\/COSME_BANNER_1_8ec98b53-76d9-4032-b712-3b989944280f.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -598,7 +600,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "hide_product_information": false,
         "stack_products": false,
         "products_per_row_mobile": "2",
@@ -628,7 +630,8 @@
       "settings": {
         "color_scheme": "scheme-2",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/Apparel_BANNER_319d5b56-a8fc-44f8-a2ab-eeb85a4d7839.png",
+        "image": "shopify:\/\/shop_images\/SP_Category_banner_apparel2_1.png",
+        "mobile_image": "shopify:\/\/shop_images\/Apparel_BANNER_319d5b56-a8fc-44f8-a2ab-eeb85a4d7839.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -636,7 +639,7 @@
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "overlay_color": "#000000",
-        "overlay_opacity": 15
+        "overlay_opacity": 0
       }
     },
     "slideshow_kJaYqT": {
@@ -770,7 +773,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "hide_product_information": false,
         "stack_products": false,
         "products_per_row_mobile": "2",
