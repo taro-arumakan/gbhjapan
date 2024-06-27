@@ -8,10 +8,10 @@
     "success_color": "#307a07",
     "warning_color": "#ed8a00",
     "error_color": "#cb2b2b",
-    "heading_font": "univers_next_n4",
+    "heading_font": "noto_sans_japanese_n4",
     "heading_text_transform": "normal",
     "heading_letter_spacing": 8,
-    "text_font": "univers_next_n4",
+    "text_font": "noto_sans_japanese_n4",
     "text_font_size_desktop": 14,
     "button_letter_spacing": 18,
     "favicon": "shopify:\/\/shop_images\/gbh_favicon-2.png",
@@ -23,7 +23,7 @@
         "settings": {
           "background": "#efefef",
           "background_gradient": "",
-          "text_color": "#1c1c1c",
+          "text_color": "#000000",
           "primary_button_background": "#1c1c1c",
           "primary_button_text_color": "#ffffff",
           "circle_button_background": "#ffffff",
@@ -57,6 +57,17 @@
           "background": "rgba(0,0,0,0)",
           "background_gradient": "",
           "text_color": "#1c1c1c",
+          "primary_button_background": "#1c1c1c",
+          "primary_button_text_color": "#ffffff",
+          "circle_button_background": "#ffffff",
+          "circle_button_icon": "#1c1c1c"
+        }
+      },
+      "scheme-c372248c-3e6c-4d0c-941c-db563a8b2be1": {
+        "settings": {
+          "background": "rgba(0,0,0,0)",
+          "background_gradient": "",
+          "text_color": "#efefef",
           "primary_button_background": "#1c1c1c",
           "primary_button_text_color": "#ffffff",
           "circle_button_background": "#ffffff",
