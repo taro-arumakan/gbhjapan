@@ -269,18 +269,31 @@
             "text": "HOME",
             "heading_tag": "h1"
           }
+        },
+        "button_mcmd8x": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "style": "solid",
+            "text": "view all",
+            "url": "shopify:\/\/collections\/home",
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
-        "heading_iNaTwQ"
+        "heading_iNaTwQ",
+        "button_mcmd8x"
       ],
       "custom_css": [
-        ".prose > p.h1 {font-size: 1.75rem;}"
+        ".prose > p.h1 {font-size: 1.75rem;}",
+        "@media screen and (min-width: 700px) {.sm\\:place-self-center-start {margin-left: 6.5rem; } p.h1 {color: black; }}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/SP_Category_banner_home_5_8f699075-56b8-43a9-ab82-00c2a864cd7a.png",
+        "image": "shopify:\/\/shop_images\/SP_Category_banner_home_5_5e4066b2-a3d8-42be-9613-b551ef88320f.png",
         "mobile_image": "shopify:\/\/shop_images\/HOME_BANNER_2.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -446,25 +459,38 @@
             "text": "COSME",
             "heading_tag": "h1"
           }
+        },
+        "button_iAGBft": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "style": "solid",
+            "text": "View All",
+            "url": "shopify:\/\/collections\/cosmetics",
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
-        "heading_bmeCMe"
+        "heading_bmeCMe",
+        "button_iAGBft"
       ],
       "custom_css": [
-        ".prose > p.h1 {font-size: 1.75rem;}"
+        ".prose > p.h1 {font-size: 1.75rem;}",
+        "@media screen and (min-width: 700px) {.sm\\:place-self-center-start {margin-left: 5.25rem; } p.h1 {color: black; }}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/SP_Category_banner_cosme_3.png",
+        "image": "shopify:\/\/shop_images\/SP_Category_banner_cosme_9.png",
         "mobile_image": "shopify:\/\/shop_images\/COSME_BANNER_1_8ec98b53-76d9-4032-b712-3b989944280f.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
         "content_width": "md",
         "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
@@ -619,25 +645,38 @@
             "text": "APPAREL",
             "heading_tag": "h1"
           }
+        },
+        "button_kdifpd": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "style": "solid",
+            "text": "View All",
+            "url": "shopify:\/\/collections\/apparel",
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
-        "heading_6BDXaR"
+        "heading_6BDXaR",
+        "button_kdifpd"
       ],
       "custom_css": [
-        ".prose > p.h1 {font-size: 1.75rem;}"
+        ".prose > p.h1 {font-size: 1.75rem;}",
+        "@media screen and (min-width: 700px) {.sm\\:place-self-center-start {margin-left: 4.75rem; } p.h1 {color: black; } }"
       ],
       "settings": {
         "color_scheme": "scheme-2",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/SP_Category_banner_apparel2_1.png",
+        "image": "shopify:\/\/shop_images\/SP_Category_banner_apparel2_4.png",
         "mobile_image": "shopify:\/\/shop_images\/Apparel_BANNER_319d5b56-a8fc-44f8-a2ab-eeb85a4d7839.png",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
         "content_width": "md",
         "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
