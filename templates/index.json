@@ -295,6 +295,7 @@
         "image_size": "auto",
         "image": "shopify:\/\/shop_images\/SP_Category_banner_home_5_5e4066b2-a3d8-42be-9613-b551ef88320f.png",
         "mobile_image": "shopify:\/\/shop_images\/HOME_BANNER_2.png",
+        "image_url": "shopify:\/\/collections\/home",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -485,6 +486,7 @@
         "image_size": "auto",
         "image": "shopify:\/\/shop_images\/SP_Category_banner_cosme_9.png",
         "mobile_image": "shopify:\/\/shop_images\/COSME_BANNER_1_8ec98b53-76d9-4032-b712-3b989944280f.png",
+        "image_url": "shopify:\/\/collections\/cosmetics",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -664,13 +666,14 @@
       ],
       "custom_css": [
         ".prose > p.h1 {font-size: 1.75rem;}",
-        "@media screen and (min-width: 700px) {.sm\\:place-self-center-start {margin-left: 4.75rem; } p.h1 {color: black; } }"
+        "@media screen and (min-width: 700px) {.sm\\:place-self-center-start {margin-left: 4.75rem; } p.h1 {color: black; }}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
         "image_size": "auto",
         "image": "shopify:\/\/shop_images\/SP_Category_banner_apparel2_4.png",
         "mobile_image": "shopify:\/\/shop_images\/Apparel_BANNER_319d5b56-a8fc-44f8-a2ab-eeb85a4d7839.png",
+        "image_url": "shopify:\/\/collections\/apparel",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
