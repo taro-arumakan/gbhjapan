@@ -2137,6 +2137,7 @@ model-media model-viewer, model-media .shopify-model-viewer-ui {
   align-content: start;
   gap: 1.25rem;
   display: grid;
+  grid-template-rows: auto 1fr;
   position: relative;
 }
 
@@ -2212,6 +2213,19 @@ model-media model-viewer, model-media .shopify-model-viewer-ui {
   justify-items: center;
   gap: .75rem;
   display: grid;
+  grid-template-rows: 1fr auto;
+}
+
+.product-card__info .v-stack {
+  grid-template-rows: 1fr auto;
+}
+
+.product-card__info price-list {
+  align-self: end;
+}
+
+.product-card__info fieldset {
+  align-self: end;
 }
 
 .product-card__info :is(.price-list, .rating-badge) {
@@ -2302,7 +2316,7 @@ model-media model-viewer, model-media .shopify-model-viewer-ui {
   --product-list-calculated-column-gap: clamp(var(--container-gutter) / 4, var(--product-list-default-column-gap) * var(--product-list-horizontal-spacing-factor, 1), var(--container-gutter) * 2);
   --product-list-card-width: calc(100% / var(--product-list-calculated-items-per-row)  - var(--product-list-calculated-column-gap, 0px) * (var(--product-list-calculated-items-per-row)  - 1) / var(--product-list-calculated-items-per-row));
   grid: auto / repeat(auto-fit, var(--product-list-card-width));
-  align-items: start;
+  align-items: stretch;
   column-gap: var(--product-list-calculated-column-gap);
   row-gap: var(--product-list-calculated-row-gap);
   display: grid;
