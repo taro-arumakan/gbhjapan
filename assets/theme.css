@@ -2837,6 +2837,7 @@ tfoot td {
   place-items: center;
   display: grid;
   position: relative;
+  box-shadow: -0.7px -0.7px black inset;
 }
 
 :disabled + .color-swatch:before, .color-swatch.is-disabled:before {
@@ -2851,6 +2852,7 @@ tfoot td {
   --swatch-disabled-margin: 0;
   --swatch-disabled-strike-color: currentColor;
   border-color: currentColor;
+  box-shadow: none;
 }
 
 :focus-visible + .color-swatch {
