@@ -624,8 +624,10 @@ height-observer {
   transform: scale(1.1);
 }
 
-.shopify-section:first-child [allow-transparent-header] > .content-over-media > :not(img, video, iframe, svg, video-media, picture) {
-  padding-block-start: var(--header-height, 0px);
+@media screen and (min-width: 1000px) {
+  .shopify-section:first-child [allow-transparent-header] > .content-over-media > :not(img, video, iframe, svg, video-media, picture) {
+    padding-block-start: var(--header-height, 0px);
+  }
 }
 
 .content-over-media--xs {
@@ -652,8 +654,10 @@ height-observer {
   --content-over-media-height: calc(100vh - (var(--announcement-bar-height, 0px)  + var(--header-height, 0px)));
 }
 
-.shopify-section:first-child:has([allow-transparent-header]) .content-over-media--fill {
-  --content-over-media-height: calc(100vh - (var(--announcement-bar-height, 0px)));
+@media screen and (min-width: 1000px) {
+  .shopify-section:first-child:has([allow-transparent-header]) .content-over-media--fill {
+    --content-over-media-height: calc(100vh - (var(--announcement-bar-height, 0px)));
+  }
 }
 
 @supports (height: 100svh) {
@@ -665,8 +669,10 @@ height-observer {
     --content-over-media-height: calc(100svh - (var(--announcement-bar-height, 0px)  + var(--header-height, 0px)));
   }
 
-  .shopify-section:first-child:has([allow-transparent-header]) .content-over-media--fill {
-    --content-over-media-height: calc(100svh - (var(--announcement-bar-height, 0px)));
+  @media screen and (min-width: 1000px) {
+    .shopify-section:first-child:has([allow-transparent-header]) .content-over-media--fill {
+      --content-over-media-height: calc(100svh - (var(--announcement-bar-height, 0px)));
+    }
   }
 }
 
@@ -4601,22 +4607,26 @@ tfoot td {
   pointer-events: none;
 }
 
-:has(.shopify-section:first-child [allow-transparent-header]):not(:has(.shopify-section--header + .shopify-section-group-header-group)) .header {
-  margin-block-end: calc(-1 * var(--header-height, 0px));
+@media screen and (min-width: 1000px) {
+  :has(.shopify-section:first-child [allow-transparent-header]):not(:has(.shopify-section--header + .shopify-section-group-header-group)) .header {
+    margin-block-end: calc(-1 * var(--header-height, 0px));
+  }
 }
 
-:has(.shopify-section:first-child [allow-transparent-header]):not(:has(.shopify-section--header + .shopify-section-group-header-group)) .header:not(:hover, .is-solid, :has([open])) {
-  --header-show-transparent-logo: 1;
-  --header-separation-border-color: 0 0 0 / 0;
-  --background: 0 0 0 / 0;
-  --background-gradient: 0 0 0 / 0;
-  --border-color: 0 0 0 / 0;
-  --text-color: var(--header-transparent-header-text-color);
-}
+@media screen and (min-width: 1000px) {
+  :has(.shopify-section:first-child [allow-transparent-header]):not(:has(.shopify-section--header + .shopify-section-group-header-group)) .header:not(:hover, .is-solid, :has([open])) {
+    --header-show-transparent-logo: 1;
+    --header-separation-border-color: 0 0 0 / 0;
+    --background: 0 0 0 / 0;
+    --background-gradient: 0 0 0 / 0;
+    --border-color: 0 0 0 / 0;
+    --text-color: var(--header-transparent-header-text-color);
+  }
 
-:has(.shopify-section:first-child [allow-transparent-header]):not(:has(.shopify-section--header + .shopify-section-group-header-group)) .header:not(:hover, .is-solid, :has([open])) .link-faded {
-  color: currentColor;
-  transition: none;
+  :has(.shopify-section:first-child [allow-transparent-header]):not(:has(.shopify-section--header + .shopify-section-group-header-group)) .header:not(:hover, .is-solid, :has([open])) .link-faded {
+    color: currentColor;
+    transition: none;
+  }
 }
 
 .header__cart-dot {
