@@ -5,6 +5,7 @@
       "blocks": {
         "vendor": {
           "type": "vendor",
+          "disabled": true,
           "settings": {
           }
         },
@@ -69,7 +70,7 @@
             "title": "Pairs well with",
             "products_count": 2,
             "show_below_gallery": true,
-            "stack_products": false,
+            "stack_products": true,
             "show_quick_buy": true
           }
         }
@@ -101,26 +102,26 @@
         "max_image_zoom_level": 3
       }
     },
-    "related-products": {
-      "type": "related-products",
+    "recently_viewed_products_yKc6GM": {
+      "type": "recently-viewed-products",
       "settings": {
-        "color_scheme": "",
         "separate_section_with_border": true,
+        "color_scheme": "",
         "hide_product_information": false,
         "stack_products": false,
-        "recommendations_count": 10,
+        "products_count": 9,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
         "subheading": "",
-        "title": "Related products",
+        "title": "Recently Viewed",
         "content": ""
       }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "recently_viewed_products_yKc6GM"
   ]
 }
