@@ -2857,7 +2857,7 @@ tfoot td {
   place-items: center;
   display: grid;
   position: relative;
-  box-shadow: -0.7px -0.7px black inset;
+  box-shadow: -0.7px -0.7px #a4a4a4 inset;
 }
 
 :disabled + .color-swatch:before, .color-swatch.is-disabled:before {
