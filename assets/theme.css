@@ -3056,10 +3056,10 @@ tfoot td {
 }
 
 .price-list {
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
   align-items: baseline;
   column-gap: .5rem;
-  display: flex;
+  display: grid;
 }
 
 .price-list--product {
@@ -5767,6 +5767,12 @@ tfoot td {
 
 .product-gallery[allow-zoom] .product-gallery__media {
   cursor: var(--cursor-zoom-in-svg-url) 18 18, zoom-in;
+}
+
+.product-gallery__media {
+  aspect-ratio: 5/7;
+  display: flex;
+  align-items: center;
 }
 
 .product-gallery__media > * {
