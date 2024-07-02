@@ -23,12 +23,12 @@
 
             {%- when 'heading' -%}
               {%- if block.settings.text != blank -%}
-                <p class="{{ block.settings.heading_tag }}" {{ block.shopify_attributes }}>{{ block.settings.text }}</p>
+                <p class="{{ block.settings.heading_tag }} wow fadeIn" data-wow-duration="1.5s" {{ block.shopify_attributes }}>{{ block.settings.text }}</p>
               {%- endif -%}
 
             {%- when 'richtext' -%}
               {%- if block.settings.content != blank -%}
-                <div {{ block.shopify_attributes }}>
+                <div {{ block.shopify_attributes }} class="wow fadeIn" data-wow-duration="1.5s">
                   {{- block.settings.content -}}
                 </div>
               {%- endif -%}
