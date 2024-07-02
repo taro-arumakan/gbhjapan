@@ -156,7 +156,11 @@
       {%- endcomment -%}
     </span>
 
-    {%- if request.page_type != 'password' -%}
+    {% assign black_header_paths = '/collections/about' | split: ',' %}
+    {%- if black_header_paths contains request.path %}
+      {%- sections 'header-group-about' -%}
+      {%- sections 'overlay-group' -%}
+    {%- elsif request.page_type != 'password' -%}
       {%- sections 'header-group' -%}
       {%- sections 'overlay-group' -%}
     {%- endif -%}
@@ -169,7 +173,9 @@
         moving it inside the main allows to have all the sections (including sections inside the footer group) to be
         consecutive, and hence having a cleaner margin collapsing management.
       {%- endcomment -%}
-      {%- if request.page_type != 'password' -%}
+      {%- if black_header_paths contains request.path %}
+        {%- sections 'footer-group-about' -%}
+      {%- elsif request.page_type != 'password' -%}
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
