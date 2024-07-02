@@ -1,0 +1,356 @@
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "allow_transparent_header": true,
+        "reveal": true,
+        "enable_parallax": true,
+        "show_image": true,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "show_breadcrumb": true,
+        "content_width": "xs",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "hide_product_information": false,
+        "products_per_page": 48,
+        "products_per_row_mobile": "2",
+        "products_size_desktop": "medium",
+        "show_grid_mode_selector": true,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "filter_layout": "drawer",
+        "quick_links_menu": "",
+        "show_sort_by": true,
+        "show_filters": true,
+        "show_results_count": true,
+        "show_filter_group_name": false,
+        "show_filter_values_count": true,
+        "open_filters_by_default": false
+      }
+    },
+    "image_with_text_overlay_LN8PRV": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media {width: 83.84%; margin: auto; padding-top: 41px;}",
+        "@media screen and (min-width: 700px) {.content-over-media {width: 85%; padding-top: 84px; }}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/PC1.png",
+        "mobile_image": "shopify:\/\/shop_images\/Home_2-1sp.png",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_eQJCza": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zVAArH": {
+          "type": "heading",
+          "settings": {
+            "text": "<strong>満たすのは空間ではなく、日常<\/strong>",
+            "heading_tag": "h3"
+          }
+        },
+        "liquid_NhGUyd": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>ライフスタイルブランドGBHは、空間だけを満たすのではなく、<br class=\"sp_none\" \/>日々の生活そのものを満たす物を作ります。<\/h4>\n\n<h4> 見た目としてのデザインではなく、使われる時にこそ真価が現れるデザインを<br class=\"sp_none\" \/>生活用品や服、化粧品に盛り込むこと。日々目にし、手にするプロダクトに<br class=\"sp_none\" \/>美しさが宿ることで、人生も美しく豊かになると言じています。<\/h4><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_zVAArH",
+        "liquid_NhGUyd"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_overlay_GDcCYE": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media {width: 65%; margin: auto;}",
+        "@media screen and (min-width: 700px) {.content-over-media {width: 100%; }}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/pc3.png",
+        "mobile_image": "shopify:\/\/shop_images\/GBH_PH_00347.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_iURtVC": {
+      "type": "rich-text",
+      "blocks": {
+        "liquid_By3fUm": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>GBHは、それを使用する人が製品の本質に直感的に近づくデザインを追求します。<br class=\"sp_none\" \/>飾りが使用を妨げないよう、明瞭かつシンプルであること。<br class=\"sp_none\" \/>そのフィロソフィーがすべてのプロダクトに投影されています。<\/h4><\/div"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_By3fUm"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_overlay_Vf8kzC": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "@media screen and (min-width: 700px) {.content-over-media {width: 65%; margin: auto; }}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/PC2.png",
+        "mobile_image": "shopify:\/\/shop_images\/2024-07-01_20.18.38.png",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_PPwnEV": {
+      "type": "rich-text",
+      "blocks": {
+        "liquid_bgeJB3": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>使いやすく機能性の高いデザインこそ、<br class=\"sp_none\" \/>ライフスタイルブランドが持つべき美徳だと思います。 <br\/>私たちのミッションは、頻繁に手が届き、使い道がはっきりした、 <br class=\"sp_none\" \/>日々の生活を滑らかにしてくれる物の価値を伝えることです。<\/h4><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_bgeJB3"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_overlay_KLehjz": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media {width: 64%; margin: auto;}",
+        "@media screen and (min-width: 700px) {.content-over-media {display: none; }}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/SP_Category_banner_cosme.png",
+        "mobile_image": "shopify:\/\/shop_images\/2302_GBH_PH_128.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_t4yLgk": {
+      "type": "rich-text",
+      "blocks": {
+        "liquid_cFzwpX": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>静かでいながら存在感のある佇まい。用の美。粋。<br\/>GBHはすべての製品がその空間のための<br class=\"sp_none\" \/>オブジェだと考えています。無駄のないデザインは、<br class=\"sp_none\" \/>鍛えられた言語で作られた詩のようなものです。<\/h4><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_cFzwpX"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_overlay_wAgXHh": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media {width: 84%; margin: auto;}",
+        "@media screen and (min-width: 700px) {.content-over-media {width: 93.3%; margin: auto; }}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/pc4.png",
+        "mobile_image": "shopify:\/\/shop_images\/2024-07-01_20.18.10.png",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_RpUDte": {
+      "type": "rich-text",
+      "blocks": {
+        "liquid_BXiAJH": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>私たちは常に「このプロダクトは50年後、どのような価値を持っているのか?」と自問します。<br\/>トレンドより本質を捉え目的を達成したデザインは、時代に左右されません。<br class=\"sp_none\" \/>GBHは一世代にとどまらず、歳月が経っても変わらず使えるデザインとクオリティを追求します。<\/h4><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_BXiAJH"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "image_with_text_overlay_RBfYnF": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".content-over-media {padding-top: 91px;}",
+        "@media screen and (min-width: 700px) {.content-over-media {width: 66.8%; margin: auto; }}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/flagship_shop.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_6bGtVF": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_m7jRWf": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h5>Flagship Store<br\/>1, Seocho-daero32-gil, Seocho-gu,<br\/>Seoul, Republic of Korea<\/h5>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_m7jRWf"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "text_with_icons_Jegt3x": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_nwExmw": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-shield",
+            "custom_icon": "shopify:\/\/shop_images\/insta.png",
+            "icon_width": 64,
+            "mobile_icon_width": 24,
+            "title": "",
+            "content": "<h3><a href=\"https:\/\/www.instagram.com\/gbh.jp\/\" target=\"_blank\" title=\"@gbh.jp\">@gbh.jp<\/a><\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "item_nwExmw"
+      ],
+      "custom_css": [
+        "a {background: none;}",
+        ".text-with-icons {margin-top: 150px;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
+        "separate_section_with_border": false,
+        "stack_on_mobile": false,
+        "icon_color": "",
+        "text_color": "",
+        "text_alignment": "center"
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "main",
+    "image_with_text_overlay_LN8PRV",
+    "rich_text_eQJCza",
+    "image_with_text_overlay_GDcCYE",
+    "rich_text_iURtVC",
+    "image_with_text_overlay_Vf8kzC",
+    "rich_text_PPwnEV",
+    "image_with_text_overlay_KLehjz",
+    "rich_text_t4yLgk",
+    "image_with_text_overlay_wAgXHh",
+    "rich_text_RpUDte",
+    "image_with_text_overlay_RBfYnF",
+    "rich_text_6bGtVF",
+    "text_with_icons_Jegt3x"
+  ]
+}
