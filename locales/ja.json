@@ -151,10 +151,10 @@
   },
   "collection": {
     "general": {
-      "empty_collection": "コレクションを空にする",
+      "empty_collection": "コレクションにアイテムがありません",
       "all_collections": "コレクション",
       "no_collections": "このストアにコレクションはありません。",
-      "continue_shopping": "ショッピングを開始する"
+      "continue_shopping": "ショッピングを続ける"
     },
     "products_count": {
       "other": "{{ count }} 製品"
@@ -225,7 +225,7 @@
       "orders": "注文履歴",
       "logout": "ログアウト",
       "no_orders": "あなたはまだ何も注文していません",
-      "continue_shopping": "ショッピングを開始する"
+      "continue_shopping": "ショッピングを続ける"
     },
     "login": {
       "title": "ログイン",
@@ -328,7 +328,7 @@
     "general": {
       "title": "カート",
       "empty": "カートが空です",
-      "continue_shopping": "ショッピングを開始する",
+      "continue_shopping": "ショッピングを続ける",
       "weight": "重量",
       "subtotal": "小計",
       "total": "合計",
@@ -371,7 +371,7 @@
   "404": {
     "general": {
       "title": "404",
-      "continue_shopping": "ショッピングを開始する",
+      "continue_shopping": "ショッピングを続ける",
       "not_found_info": "お探しのページが見つかりませんでした。ウェブサイトに戻るには、ナビゲーションか下のボタンを使用してください。"
     }
   },
