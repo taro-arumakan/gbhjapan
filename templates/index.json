@@ -177,7 +177,7 @@
       "custom_css": [
         ".prose :where(:not(meta, span) + *) {margin-block-start: 0;}",
         ".content-over-media {row-gap: 2rem;}",
-        ".h6 {font-size: var(--text-h2)}"
+        ".h6 {font-size: var(--text-h2);}"
       ],
       "settings": {
         "allow_transparent_header": true,
@@ -194,19 +194,19 @@
     "featured_collections_4wBUBq": {
       "type": "featured-collections",
       "blocks": {
-        "collection_cNJcLT": {
+        "collection_kxNG4j": {
           "type": "collection",
           "settings": {
             "collection": "new-arrival",
-            "products_count": 4,
-            "title": "NEW ARRIVAL",
+            "products_count": 12,
+            "title": "",
             "link_url": "",
             "link_text": "View all"
           }
         }
       },
       "block_order": [
-        "collection_cNJcLT"
+        "collection_kxNG4j"
       ],
       "custom_css": [
         ".collection__title.title-wrapper {text-align: center;}",
@@ -233,7 +233,7 @@
           "type": "collection",
           "settings": {
             "collection": "ranking",
-            "products_count": 8,
+            "products_count": 12,
             "title": "BEST",
             "link_url": "",
             "link_text": "View all"
