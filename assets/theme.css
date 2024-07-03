@@ -2149,6 +2149,8 @@ model-media model-viewer, model-media .shopify-model-viewer-ui {
 
 .product-card__figure {
   position: relative;
+  aspect-ratio: 5 / 7;
+  overflow: hidden;
 }
 
 .product-card__figure > .badge-list {
