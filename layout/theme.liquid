@@ -103,15 +103,11 @@
           
         // add touchstart and touchend event
         for(let productCard of productCards) {
-          console.log(`adding event to ${productCard}`);
-          //touchstart イベント
           productCard.addEventListener('touchstart', (e) => {
             productCard.querySelector('.product-card__image--secondary').style.opacity = 1;
             productCard.querySelector('.product-card__image--primary').style.opacity = 0;
             productCard.querySelector('.product-card__image--secondary').style.visibility = 'visible';
           });
-          
-          //touchend イベント
           productCard.addEventListener('touchend', () => {
             productCard.querySelector('.product-card__image--secondary').style.opacity = 0;
             productCard.querySelector('.product-card__image--primary').style.opacity = 1;
