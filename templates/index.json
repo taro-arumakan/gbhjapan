@@ -6,8 +6,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/topbanner_pc_Apparel.png",
-            "mobile_image": "shopify:\/\/shop_images\/topbanner_sp_Apparel_1759bc1b-3672-4866-83f2-628de2a3bd59.png",
+            "image": "shopify:\/\/shop_images\/top_banner_Apparel_0711.png",
+            "mobile_image": "shopify:\/\/shop_images\/sp_top_banner_Apparel_0711.png",
             "subheading": "",
             "title": "GBH Apparel",
             "mobile_text_position": "place-self-end-center text-center",

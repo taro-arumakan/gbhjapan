@@ -86,12 +86,12 @@
       "description": "説明文",
       "add_to_cart_button": "カートに追加",
       "pre_order_button": "先行予約",
-      "sold_out_button": "売り切れ",
+      "sold_out_button": "Sold Out",
       "unavailable_button": "選択不可能",
       "choose_options": "オプションを選択",
       "view_details": "詳細を表示",
       "added_to_cart": "カートに追加されました！",
-      "sold_out_badge": "売り切れ",
+      "sold_out_badge": "Sold Out",
       "on_sale_badge": "セール",
       "discount_badge_html": "{{ savings }}オフ",
       "sku": "SKU:",
@@ -124,7 +124,9 @@
       "cannot_add_more": "これ以上追加できません"
     },
     "rating_count": {
-      "other": "{{ count }}件"
+      "other": "{{ count }}件",
+      "zero": "",
+      "one": ""
     },
     "inventory": {
       "in_stock": "在庫あり",
@@ -157,7 +159,8 @@
       "continue_shopping": "ショッピングを続ける"
     },
     "products_count": {
-      "other": "{{ count }} 製品"
+      "other": "{{ count }} 製品",
+      "one": ""
     },
     "faceting": {
       "filters": "フィルター",
@@ -203,7 +206,8 @@
       "comment_sent": "あなたのコメントが送信されました。ショップオーナーが承認すると表示されます！",
       "comment_published": "あなたのコメントが掲載されました",
       "count": {
-        "other": "{{ count }} コメント"
+        "other": "{{ count }} コメント",
+        "one": ""
       }
     }
   },
@@ -390,10 +394,12 @@
       "no_results": "結果は見つかりませんでした"
     },
     "results_count": {
-      "other": "{{count}}件"
+      "other": "{{count}}件",
+      "one": ""
     },
     "results_count_for_terms": {
-      "other": "「{{ terms }}」の検索結果{{count}}件"
+      "other": "「{{ terms }}」の検索結果{{count}}件",
+      "one": ""
     }
   },
   "gift_card": {
@@ -456,6 +462,18 @@
     "shop_the_look": {
       "view_products": "商品を見る",
       "view_product": "商品を見る"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "stock": {
+        "sold_out_label": "Sold Out"
+      },
+      "throttle": {
+        "merchandise": {
+          "sold_out": "Sold Out"
+        }
+      }
     }
   }
 }
