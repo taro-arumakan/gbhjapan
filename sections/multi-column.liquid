@@ -61,8 +61,8 @@
               -%}
 
               {%- if media_content != blank -%}
-                {%- if block.type == 'image_with_text' and block.settings.link_url != blank -%}
-                  <a href="{{ block.settings.link_url }}" class="overflow-hidden">
+                {%- if block.settings.link_url != blank -%}
+                  <a href="{{ block.settings.link_url }}" class="overflow-hidden wow fadeIn" data-wow-delay=".6s" style="visibility: hidden">
                     {{- media_content -}}
                   </a>
                 {%- else -%}
@@ -73,17 +73,22 @@
               {%- endif -%}
 
               {%- if block.settings.title != blank or block.settings.content != blank or block.settings.link_text != blank -%}
-                <div class="prose text-{{ section.settings.text_alignment }}">
+                {%- if block.settings.link_url != blank -%}
+                  <a href="{{ block.settings.link_url }}">
+                {%- endif -%}
+                <div class="prose text-{{ section.settings.text_alignment }} wow fadeIn" {% if forloop.first %} data-wow-delay="1.0s" {% else %} data-wow-delay="0.3s" {% endif %}style="visibility: hidden">
                   {%- if block.settings.title != blank -%}
                     <p class="{{ block.settings.heading_tag }}">{{ block.settings.title }}</p>
                   {%- endif -%}
-
                   {{- block.settings.content -}}
-
                   {%- if block.settings.link_text != blank -%}
-                    <a href="{{ block.settings.link_url }}" class="link">{{ block.settings.link_text | escape }}</a>
+                    <div class="link">{{ block.settings.link_text | escape }}</div>
                   {%- endif -%}
                 </div>
+                {%- if block.settings.link_url != blank -%}
+                  </a>
+                {%- endif -%}
+
               {%- endif -%}
             </div>
           {%- endfor -%}

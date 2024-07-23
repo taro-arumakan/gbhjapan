@@ -2,11 +2,80 @@
   "sections": {
     "main": {
       "type": "main-list-collections",
+      "disabled": true,
       "settings": {
+        "color_scheme": "scheme-1",
+        "show_title": false,
+        "collections": [
+          "lookbook-2024-summer",
+          "lookbook-2024-spring"
+        ],
+        "collections_per_row_mobile": "1",
+        "collections_per_row_desktop": 3,
+        "image_size": "auto",
+        "content_position": "place-self-end-start text-start",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "multi_column_NjDqgW": {
+      "type": "multi-column",
+      "blocks": {
+        "video_with_text_kKfyUx": {
+          "type": "video_with_text",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/202403_GBH_SHORT_01(thum).mp4",
+            "autoplay": true,
+            "loop": true,
+            "play_button_background": "#ffffff",
+            "title": "2024 SUMMER",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "shopify:\/\/collections\/lookbook-2024-summer",
+            "link_text": ""
+          }
+        },
+        "video_with_text_68DPyL": {
+          "type": "video_with_text",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/GBH APPAREL 24 spring 7(thum).mp4",
+            "autoplay": true,
+            "loop": true,
+            "play_button_background": "#ffffff",
+            "title": "2024 SPRING",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "shopify:\/\/collections\/lookbook-2024-spring",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_with_text_kKfyUx",
+        "video_with_text_68DPyL"
+      ],
+      "custom_css": [
+        ".multi-column {row-gap: 3rem;}",
+        ".multi-column__item {gap: 0.5rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "columns_per_row": 2,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "sm",
+        "subheading": "",
+        "title": "",
+        "content": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "multi_column_NjDqgW"
   ]
 }

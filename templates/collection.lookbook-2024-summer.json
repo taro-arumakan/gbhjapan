@@ -1,0 +1,322 @@
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "allow_transparent_header": true,
+        "reveal": true,
+        "enable_parallax": true,
+        "show_image": true,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "show_breadcrumb": true,
+        "content_width": "xs",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "hide_product_information": false,
+        "products_per_page": 48,
+        "products_per_row_mobile": "2",
+        "products_size_desktop": "medium",
+        "show_grid_mode_selector": true,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "filter_layout": "drawer",
+        "quick_links_menu": "",
+        "show_sort_by": true,
+        "show_filters": true,
+        "show_results_count": true,
+        "show_filter_group_name": false,
+        "show_filter_values_count": true,
+        "open_filters_by_default": false
+      }
+    },
+    "image_with_text_overlay_WLN9QT": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay.content-over-media.content-over-media--auto {width: 70%; margin: auto;}",
+        ".section-spacing {padding-block-end: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_1.jpg",
+        "image_url": "",
+        "allow_transparent_header": true,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_erpfd6": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-spacing {padding-block-end: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_2.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_B9XACg": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-spacing {padding-block-end: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_3.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_xxG63Q": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-spacing {padding-block-end: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_4.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_JzLXh9": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-spacing {padding-block-end: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_5.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_dQBP38": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-spacing {padding-block-end: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_6.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_FEQGX9": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-spacing {padding-block-end: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_7.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_ApbBJc": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-spacing {padding-block-end: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_8.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_Nqa6tL": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-spacing {padding-block-end: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_9.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_8Yr9zp": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-spacing {padding-block-end: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_10.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_BbENyX": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-spacing {padding-block-end: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_11.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_xRFHw6": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-spacing {padding-block-end: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_12.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_HEBQpc": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".section-spacing {padding-block-end: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_13.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": false,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "main",
+    "image_with_text_overlay_WLN9QT",
+    "image_with_text_overlay_erpfd6",
+    "image_with_text_overlay_B9XACg",
+    "image_with_text_overlay_xxG63Q",
+    "image_with_text_overlay_JzLXh9",
+    "image_with_text_overlay_dQBP38",
+    "image_with_text_overlay_FEQGX9",
+    "image_with_text_overlay_ApbBJc",
+    "image_with_text_overlay_Nqa6tL",
+    "image_with_text_overlay_8Yr9zp",
+    "image_with_text_overlay_BbENyX",
+    "image_with_text_overlay_xRFHw6",
+    "image_with_text_overlay_HEBQpc"
+  ]
+}
