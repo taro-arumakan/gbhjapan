@@ -22,6 +22,17 @@
     "multi_column_NjDqgW": {
       "type": "multi-column",
       "blocks": {
+        "image_with_text_4EJH78": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_top1.png",
+            "title": "2024 FW",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "shopify:\/\/pages\/lookbook-2024-fw",
+            "link_text": ""
+          }
+        },
         "video_with_text_kKfyUx": {
           "type": "video_with_text",
           "settings": {
@@ -52,6 +63,7 @@
         }
       },
       "block_order": [
+        "image_with_text_4EJH78",
         "video_with_text_kKfyUx",
         "video_with_text_68DPyL"
       ],
