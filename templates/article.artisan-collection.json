@@ -2,14 +2,11 @@
   "sections": {
     "main": {
       "type": "main-article",
-      "custom_css": [
-        ".prose {text-align: center;}"
-      ],
       "settings": {
         "color_scheme": "",
-        "show_image": false,
+        "show_image": true,
         "enable_parallax": true,
-        "image_size": "small",
+        "image_size": "medium",
         "content_width": "lg",
         "show_date": true,
         "show_category": true,
