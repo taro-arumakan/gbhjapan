@@ -10,10 +10,17 @@
           "settings": {
             "text": "送料770円。税込20,000円以上で送料無料。"
           }
+        },
+        "message_VBGCeH": {
+          "type": "message",
+          "settings": {
+            "text": "韓国がお盆休みのため、9月12日午後以降のご注文に関しては9月19日以降に発送されます。商品の到着が遅れますこと、あらかじめご了承ください。"
+          }
         }
       },
       "block_order": [
-        "message-1"
+        "message-1",
+        "message_VBGCeH"
       ],
       "settings": {
         "color_scheme": "",
