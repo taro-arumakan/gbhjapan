@@ -261,6 +261,86 @@
         "subheading": ""
       }
     },
+    "image_with_text_overlay_XKKJgU": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_6BDXaR": {
+          "type": "heading",
+          "settings": {
+            "text": "APPAREL",
+            "heading_tag": "h1"
+          }
+        },
+        "button_kdifpd": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "style": "outline",
+            "text": "View All",
+            "url": "shopify:\/\/collections\/apparel",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_6BDXaR",
+        "button_kdifpd"
+      ],
+      "custom_css": [
+        ".prose > p.h1 {font-size: 1.75rem;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-c372248c-3e6c-4d0c-941c-db563a8b2be1",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/SP_Category_banner_apparel2_6.png",
+        "mobile_image": "shopify:\/\/shop_images\/Apparel_BANNER_319d5b56-a8fc-44f8-a2ab-eeb85a4d7839.png",
+        "image_url": "shopify:\/\/collections\/apparel",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "featured_collections_ecAD9m": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_M67yHV": {
+          "type": "collection",
+          "settings": {
+            "collection": "apparel",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_M67yHV"
+      ],
+      "custom_css": [
+        ".section-stack {gap: 1rem;}",
+        ".featured-collections-carousel__item {gap: 1rem;}",
+        ".section-spacing {padding-block-start: 0; padding-block-end: 5rem;}",
+        ".v-stack > H2 {display: none;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
     "image_with_text_overlay_TaQhtA": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -637,51 +717,6 @@
         "subheading": ""
       }
     },
-    "image_with_text_overlay_XKKJgU": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_6BDXaR": {
-          "type": "heading",
-          "settings": {
-            "text": "APPAREL",
-            "heading_tag": "h1"
-          }
-        },
-        "button_kdifpd": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "style": "outline",
-            "text": "View All",
-            "url": "shopify:\/\/collections\/apparel",
-            "background": "",
-            "text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_6BDXaR",
-        "button_kdifpd"
-      ],
-      "custom_css": [
-        ".prose > p.h1 {font-size: 1.75rem;}"
-      ],
-      "settings": {
-        "color_scheme": "scheme-c372248c-3e6c-4d0c-941c-db563a8b2be1",
-        "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/SP_Category_banner_apparel2_6.png",
-        "mobile_image": "shopify:\/\/shop_images\/Apparel_BANNER_319d5b56-a8fc-44f8-a2ab-eeb85a4d7839.png",
-        "image_url": "shopify:\/\/collections\/apparel",
-        "allow_transparent_header": false,
-        "reveal_on_scroll": true,
-        "remove_vertical_spacing": true,
-        "content_width": "md",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "slideshow_kJaYqT": {
       "type": "slideshow",
       "blocks": {
@@ -779,41 +814,6 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": ""
-      }
-    },
-    "featured_collections_ecAD9m": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection_M67yHV": {
-          "type": "collection",
-          "settings": {
-            "collection": "apparel",
-            "products_count": 8,
-            "title": "",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection_M67yHV"
-      ],
-      "custom_css": [
-        ".section-stack {gap: 1rem;}",
-        ".featured-collections-carousel__item {gap: 1rem;}",
-        ".section-spacing {padding-block-start: 0; padding-block-end: 5rem;}",
-        ".v-stack > H2 {display: none;}"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
         "hide_product_information": false,
         "stack_products": false,
         "products_per_row_mobile": "2",
@@ -929,6 +929,8 @@
     "slideshow",
     "featured_collections_4wBUBq",
     "featured_collections_bEYV7N",
+    "image_with_text_overlay_XKKJgU",
+    "featured_collections_ecAD9m",
     "image_with_text_overlay_TaQhtA",
     "slideshow_YX7RFB",
     "featured_collections_fyKkYd",
@@ -939,11 +941,9 @@
     "featured_collections_njhbjb",
     "featured_collections_aLDKbg",
     "featured_collections_jXxtBk",
-    "image_with_text_overlay_XKKJgU",
     "slideshow_kJaYqT",
     "featured_collections_yth8rA",
     "featured_collections_ALmzzT",
-    "featured_collections_ecAD9m",
     "collection_list_3qEx9j",
     "featured_collections_xRNw9c"
   ]
