@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "collection-banner": {
@@ -49,7 +58,7 @@
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_1.jpg",
+        "image": "shopify://shop_images/LOOKBOOK_2024_SUMMER_1.jpg",
         "image_url": "",
         "allow_transparent_header": true,
         "reveal_on_scroll": true,
@@ -69,7 +78,7 @@
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_2.jpg",
+        "image": "shopify://shop_images/LOOKBOOK_2024_SUMMER_2.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -89,7 +98,7 @@
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_3.jpg",
+        "image": "shopify://shop_images/LOOKBOOK_2024_SUMMER_3.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -109,7 +118,7 @@
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_4.jpg",
+        "image": "shopify://shop_images/LOOKBOOK_2024_SUMMER_4.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -129,7 +138,7 @@
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_5.jpg",
+        "image": "shopify://shop_images/LOOKBOOK_2024_SUMMER_5.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -149,7 +158,7 @@
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_6.jpg",
+        "image": "shopify://shop_images/LOOKBOOK_2024_SUMMER_6.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -169,7 +178,7 @@
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_7.jpg",
+        "image": "shopify://shop_images/LOOKBOOK_2024_SUMMER_7.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -189,7 +198,7 @@
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_8.jpg",
+        "image": "shopify://shop_images/LOOKBOOK_2024_SUMMER_8.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -209,7 +218,7 @@
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_9.jpg",
+        "image": "shopify://shop_images/LOOKBOOK_2024_SUMMER_9.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -229,7 +238,7 @@
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_10.jpg",
+        "image": "shopify://shop_images/LOOKBOOK_2024_SUMMER_10.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -249,7 +258,7 @@
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_11.jpg",
+        "image": "shopify://shop_images/LOOKBOOK_2024_SUMMER_11.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -269,7 +278,7 @@
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_12.jpg",
+        "image": "shopify://shop_images/LOOKBOOK_2024_SUMMER_12.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -289,7 +298,7 @@
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_SUMMER_13.jpg",
+        "image": "shopify://shop_images/LOOKBOOK_2024_SUMMER_13.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,

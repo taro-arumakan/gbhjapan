@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -18,7 +27,7 @@
       "settings": {
         "color_scheme": "scheme-de09375c-0783-4fa0-9515-a4b0e3ef7f96",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_001.jpg",
+        "image": "shopify://shop_images/24FW_LOOKBOOK_001.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -39,7 +48,7 @@
       "settings": {
         "color_scheme": "scheme-de09375c-0783-4fa0-9515-a4b0e3ef7f96",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_002.jpg",
+        "image": "shopify://shop_images/24FW_LOOKBOOK_002.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -60,7 +69,7 @@
       "settings": {
         "color_scheme": "scheme-de09375c-0783-4fa0-9515-a4b0e3ef7f96",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_003.jpg",
+        "image": "shopify://shop_images/24FW_LOOKBOOK_003.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -81,7 +90,7 @@
       "settings": {
         "color_scheme": "scheme-de09375c-0783-4fa0-9515-a4b0e3ef7f96",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_004.jpg",
+        "image": "shopify://shop_images/24FW_LOOKBOOK_004.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -101,7 +110,7 @@
       "settings": {
         "color_scheme": "scheme-de09375c-0783-4fa0-9515-a4b0e3ef7f96",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_005.jpg",
+        "image": "shopify://shop_images/24FW_LOOKBOOK_005.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -121,7 +130,7 @@
       "settings": {
         "color_scheme": "scheme-de09375c-0783-4fa0-9515-a4b0e3ef7f96",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_006.jpg",
+        "image": "shopify://shop_images/24FW_LOOKBOOK_006.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -142,7 +151,7 @@
       "settings": {
         "color_scheme": "scheme-de09375c-0783-4fa0-9515-a4b0e3ef7f96",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_007.jpg",
+        "image": "shopify://shop_images/24FW_LOOKBOOK_007.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -163,7 +172,7 @@
       "settings": {
         "color_scheme": "scheme-de09375c-0783-4fa0-9515-a4b0e3ef7f96",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_008.jpg",
+        "image": "shopify://shop_images/24FW_LOOKBOOK_008.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -184,7 +193,7 @@
       "settings": {
         "color_scheme": "scheme-de09375c-0783-4fa0-9515-a4b0e3ef7f96",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_009.jpg",
+        "image": "shopify://shop_images/24FW_LOOKBOOK_009.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -205,7 +214,7 @@
       "settings": {
         "color_scheme": "scheme-de09375c-0783-4fa0-9515-a4b0e3ef7f96",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_010.jpg",
+        "image": "shopify://shop_images/24FW_LOOKBOOK_010.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -226,7 +235,7 @@
       "settings": {
         "color_scheme": "scheme-de09375c-0783-4fa0-9515-a4b0e3ef7f96",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_011.jpg",
+        "image": "shopify://shop_images/24FW_LOOKBOOK_011.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -247,7 +256,7 @@
       "settings": {
         "color_scheme": "scheme-de09375c-0783-4fa0-9515-a4b0e3ef7f96",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_012.jpg",
+        "image": "shopify://shop_images/24FW_LOOKBOOK_012.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,

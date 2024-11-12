@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "collection-banner": {
@@ -49,8 +58,8 @@
       "settings": {
         "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/PC1.png",
-        "mobile_image": "shopify:\/\/shop_images\/Home_2-1sp.png",
+        "image": "shopify://shop_images/PC1.png",
+        "mobile_image": "shopify://shop_images/Home_2-1sp.png",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -68,14 +77,14 @@
         "heading_zVAArH": {
           "type": "heading",
           "settings": {
-            "text": "<strong>満たすのは空間ではなく、日常<\/strong>",
+            "text": "<strong>満たすのは空間ではなく、日常</strong>",
             "heading_tag": "h3"
           }
         },
         "liquid_NhGUyd": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>ライフスタイルブランドGBHは、空間だけを満たすのではなく、<br class=\"sp_none\" \/>日々の生活そのものを満たす物を作ります。<\/h4>\n\n<h4> 見た目としてのデザインではなく、使われる時にこそ真価が現れるデザインを<br class=\"sp_none\" \/>生活用品や服、化粧品に盛り込むこと。日々目にし、手にするプロダクトに<br class=\"sp_none\" \/>美しさが宿ることで、人生も美しく豊かになると言じています。<\/h4><\/div>"
+            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>ライフスタイルブランドGBHは、空間だけを満たすのではなく、<br class=\"sp_none\" />日々の生活そのものを満たす物を作ります。</h4>\n\n<h4> 見た目としてのデザインではなく、使われる時にこそ真価が現れるデザインを<br class=\"sp_none\" />生活用品や服、化粧品に盛り込むこと。日々目にし、手にするプロダクトに<br class=\"sp_none\" />美しさが宿ることで、人生も美しく豊かになると言じています。</h4></div>"
           }
         }
       },
@@ -104,8 +113,8 @@
       "settings": {
         "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/pc3.png",
-        "mobile_image": "shopify:\/\/shop_images\/GBH_PH_00347.jpg",
+        "image": "shopify://shop_images/pc3.png",
+        "mobile_image": "shopify://shop_images/GBH_PH_00347.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -123,7 +132,7 @@
         "liquid_By3fUm": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>GBHは、それを使用する人が製品の本質に直感的に近づくデザインを追求します。<br class=\"sp_none\" \/>飾りが使用を妨げないよう、明瞭かつシンプルであること。<br class=\"sp_none\" \/>そのフィロソフィーがすべてのプロダクトに投影されています。<\/h4><\/div"
+            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>GBHは、それを使用する人が製品の本質に直感的に近づくデザインを追求します。<br class=\"sp_none\" />飾りが使用を妨げないよう、明瞭かつシンプルであること。<br class=\"sp_none\" />そのフィロソフィーがすべてのプロダクトに投影されています。</h4></div"
           }
         }
       },
@@ -149,8 +158,8 @@
       "settings": {
         "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/PC2.png",
-        "mobile_image": "shopify:\/\/shop_images\/2024-07-01_20.18.38.png",
+        "image": "shopify://shop_images/PC2.png",
+        "mobile_image": "shopify://shop_images/2024-07-01_20.18.38.png",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -168,7 +177,7 @@
         "liquid_bgeJB3": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>使いやすく機能性の高いデザインこそ、<br class=\"sp_none\" \/>ライフスタイルブランドが持つべき美徳だと思います。 <br\/>私たちのミッションは、頻繁に手が届き、使い道がはっきりした、 <br class=\"sp_none\" \/>日々の生活を滑らかにしてくれる物の価値を伝えることです。<\/h4><\/div>"
+            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>使いやすく機能性の高いデザインこそ、<br class=\"sp_none\" />ライフスタイルブランドが持つべき美徳だと思います。 <br/>私たちのミッションは、頻繁に手が届き、使い道がはっきりした、 <br class=\"sp_none\" />日々の生活を滑らかにしてくれる物の価値を伝えることです。</h4></div>"
           }
         }
       },
@@ -195,8 +204,8 @@
       "settings": {
         "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/SP_Category_banner_cosme.png",
-        "mobile_image": "shopify:\/\/shop_images\/2302_GBH_PH_128.jpg",
+        "image": "shopify://shop_images/SP_Category_banner_cosme.png",
+        "mobile_image": "shopify://shop_images/2302_GBH_PH_128.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -214,7 +223,7 @@
         "liquid_cFzwpX": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>静かでいながら存在感のある佇まい。用の美。粋。<br\/>GBHはすべての製品がその空間のための<br class=\"sp_none\" \/>オブジェだと考えています。無駄のないデザインは、<br class=\"sp_none\" \/>鍛えられた言語で作られた詩のようなものです。<\/h4><\/div>"
+            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>静かでいながら存在感のある佇まい。用の美。粋。<br/>GBHはすべての製品がその空間のための<br class=\"sp_none\" />オブジェだと考えています。無駄のないデザインは、<br class=\"sp_none\" />鍛えられた言語で作られた詩のようなものです。</h4></div>"
           }
         }
       },
@@ -241,8 +250,8 @@
       "settings": {
         "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/pc4.png",
-        "mobile_image": "shopify:\/\/shop_images\/2024-07-01_20.18.10.png",
+        "image": "shopify://shop_images/pc4.png",
+        "mobile_image": "shopify://shop_images/2024-07-01_20.18.10.png",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -260,7 +269,7 @@
         "liquid_BXiAJH": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>私たちは常に「このプロダクトは50年後、どのような価値を持っているのか?」と自問します。<br\/>トレンドより本質を捉え目的を達成したデザインは、時代に左右されません。<br class=\"sp_none\" \/>GBHは一世代にとどまらず、歳月が経っても変わらず使えるデザインとクオリティを追求します。<\/h4><\/div>"
+            "liquid": "<div class=\"about_prose wow fadeIn\" data-wow-duration=\"1.5s\"><h4>私たちは常に「このプロダクトは50年後、どのような価値を持っているのか?」と自問します。<br/>トレンドより本質を捉え目的を達成したデザインは、時代に左右されません。<br class=\"sp_none\" />GBHは一世代にとどまらず、歳月が経っても変わらず使えるデザインとクオリティを追求します。</h4></div>"
           }
         }
       },
@@ -287,7 +296,7 @@
       "settings": {
         "color_scheme": "scheme-a5a9e931-50d7-4029-9638-c2a94bedc0f4",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/flagship_shop.jpg",
+        "image": "shopify://shop_images/flagship_shop.jpg",
         "image_url": "",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
@@ -305,7 +314,7 @@
         "richtext_m7jRWf": {
           "type": "richtext",
           "settings": {
-            "content": "<h5>Flagship Store<br\/>1, Seocho-daero32-gil, Seocho-gu,<br\/>Seoul, Republic of Korea<\/h5>"
+            "content": "<h5>Flagship Store<br/>1, Seocho-daero32-gil, Seocho-gu,<br/>Seoul, Republic of Korea</h5>"
           }
         }
       },
@@ -327,11 +336,11 @@
           "type": "item",
           "settings": {
             "icon": "picto-shield",
-            "custom_icon": "shopify:\/\/shop_images\/insta.png",
+            "custom_icon": "shopify://shop_images/insta.png",
             "icon_width": 64,
             "mobile_icon_width": 24,
             "title": "",
-            "content": "<h3><a href=\"https:\/\/www.instagram.com\/gbh.jp\/\" target=\"_blank\" title=\"@gbh.jp\">@gbh.jp<\/a><\/h3>"
+            "content": "<h3><a href=\"https://www.instagram.com/gbh.jp/\" target=\"_blank\" title=\"@gbh.jp\">@gbh.jp</a></h3>"
           }
         }
       },

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -25,39 +34,39 @@
         "image_with_text_4EJH78": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_top1.png",
+            "image": "shopify://shop_images/24FW_LOOKBOOK_top1.png",
             "title": "2024 FW",
             "heading_tag": "h5",
             "content": "",
-            "link_url": "shopify:\/\/pages\/lookbook-2024-fw",
+            "link_url": "shopify://pages/lookbook-2024-fw",
             "link_text": ""
           }
         },
         "video_with_text_kKfyUx": {
           "type": "video_with_text",
           "settings": {
-            "video": "shopify:\/\/files\/videos\/202403_GBH_SHORT_01(thum).mp4",
+            "video": "shopify://files/videos/202403_GBH_SHORT_01(thum).mp4",
             "autoplay": true,
             "loop": true,
             "play_button_background": "#ffffff",
             "title": "2024 SUMMER",
             "heading_tag": "h5",
             "content": "",
-            "link_url": "shopify:\/\/collections\/lookbook-2024-summer",
+            "link_url": "shopify://collections/lookbook-2024-summer",
             "link_text": ""
           }
         },
         "video_with_text_68DPyL": {
           "type": "video_with_text",
           "settings": {
-            "video": "shopify:\/\/files\/videos\/GBH APPAREL 24 spring 7(thum).mp4",
+            "video": "shopify://files/videos/GBH APPAREL 24 spring 7(thum).mp4",
             "autoplay": true,
             "loop": true,
             "play_button_background": "#ffffff",
             "title": "2024 SPRING",
             "heading_tag": "h5",
             "content": "",
-            "link_url": "shopify:\/\/collections\/lookbook-2024-spring",
+            "link_url": "shopify://collections/lookbook-2024-spring",
             "link_text": ""
           }
         }

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "Header group",
@@ -13,6 +22,7 @@
         },
         "message_VBGCeH": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "韓国がお盆休みのため、9月12日午後以降のご注文に関しては9月19日以降に発送されます。商品の到着が遅れますこと、あらかじめご了承ください。"
           }
@@ -39,7 +49,7 @@
         "hide_on_scroll": true,
         "show_separation_border": false,
         "reduce_padding": true,
-        "logo": "shopify:\/\/shop_images\/GBH_2.png",
+        "logo": "shopify://shop_images/GBH_2.png",
         "logo_max_width": 140,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
@@ -56,7 +66,7 @@
         "show_country_flag": false,
         "show_locale_selector": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify:\/\/shop_images\/GBH_white.png"
+        "transparent_logo": "shopify://shop_images/GBH_white.png"
       }
     }
   },
