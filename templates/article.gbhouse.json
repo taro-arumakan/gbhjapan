@@ -167,8 +167,9 @@
     },
     "prev-next-blog-posts": {
       "type": "prev-next-blog-posts",
+      "disabled": true,
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": false,
         "subheading": "",
         "title": "Read more",
