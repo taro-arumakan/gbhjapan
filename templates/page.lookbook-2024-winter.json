@@ -1,0 +1,314 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "image_with_text_overlay_GjhNnx": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay {width: 100%; margin: auto; padding-bottom: 6.7%}",
+        ".content-over-media > picture img {object-fit: contain;}",
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_WINTER_1.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_d4F6Hp": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay {width: 100%; margin: auto; padding-bottom: 6.1%}",
+        ".content-over-media > picture img {object-fit: contain;}",
+        ".content-over-media {row-gap: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_WINTER_2.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_pQAxQU": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay {width: 100%; margin: auto; padding-bottom: 8.2%}",
+        ".content-over-media > picture img {object-fit: contain;}",
+        ".content-over-media {row-gap: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_WINTER_3.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_8pWLNm": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay {width: 100%; margin: auto; padding-bottom: 7.9%}",
+        ".content-over-media > picture img {object-fit: contain;}",
+        ".content-over-media {row-gap: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_WINTER_4.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_K6YaPR": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay {width: 100%; margin: auto; padding-bottom: 17%}",
+        ".content-over-media > picture img {object-fit: contain;}",
+        ".content-over-media {row-gap: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_WINTER_5.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_FbjXYE": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay {width: 100%; margin: auto; padding-bottom: 9.5%}",
+        ".content-over-media > picture img {object-fit: contain;}",
+        ".content-over-media {row-gap: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_WINTER_6.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_btJPpG": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay {width: 100%; margin: auto; padding-bottom: 8.9%}",
+        ".content-over-media > picture img {object-fit: contain;}",
+        ".content-over-media {row-gap: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_WINTER_7.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_irTWAr": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay {width: 100%; margin: auto; padding-bottom: 15.8%}",
+        ".content-over-media > picture img {object-fit: contain;}",
+        ".content-over-media {row-gap: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_WINTER_8.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_BbWf7C": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay {width: 100%; margin: auto; padding-bottom: 15.75%}",
+        ".content-over-media > picture img {object-fit: contain;}",
+        ".content-over-media {row-gap: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_WINTER_9.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_Rwjzx6": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay {width: 100%; margin: auto; padding-bottom: 13.65%}",
+        ".content-over-media > picture img {object-fit: contain;}",
+        ".content-over-media {row-gap: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_WINTER_10.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_jkFQpn": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay {width: 100%; margin: auto; padding-bottom: 8.3%}",
+        ".content-over-media > picture img {object-fit: contain;}",
+        ".content-over-media {row-gap: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_WINTER_11.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_dpktRA": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay {width: 100%; margin: auto; padding-bottom: 3.9%}",
+        ".content-over-media > picture img {object-fit: contain;}",
+        ".content-over-media {row-gap: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_WINTER_12.jpg",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_nDhB44": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "image-with-text-overlay {width: 100%; margin: auto; padding-bottom: 25%}",
+        ".content-over-media > picture img {object-fit: contain;}",
+        ".content-over-media {row-gap: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/LOOKBOOK_2024_WINTER_13.png",
+        "image_url": "",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_GjhNnx",
+    "image_with_text_overlay_d4F6Hp",
+    "image_with_text_overlay_pQAxQU",
+    "image_with_text_overlay_8pWLNm",
+    "image_with_text_overlay_K6YaPR",
+    "image_with_text_overlay_FbjXYE",
+    "image_with_text_overlay_btJPpG",
+    "image_with_text_overlay_irTWAr",
+    "image_with_text_overlay_BbWf7C",
+    "image_with_text_overlay_Rwjzx6",
+    "image_with_text_overlay_jkFQpn",
+    "image_with_text_overlay_dpktRA",
+    "image_with_text_overlay_nDhB44"
+  ]
+}
