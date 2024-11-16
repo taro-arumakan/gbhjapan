@@ -11,7 +11,7 @@ const transitionsMap = {
   3: 'reveal_tran_tb'
 };
 const keys = Object.keys(transitionsMap).length;
-document.querySelectorAll('.prose>div').forEach((element, index) => {
+document.querySelectorAll('.prose div').forEach((element, index) => {
   const tran = transitionsMap[index % keys];
   element.classList.add(tran);
 });
