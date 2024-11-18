@@ -33,7 +33,7 @@
     "main": {
       "type": "main-article",
       "custom_css": [
-        ".prose {text-align: left; max-width: 800px; margin: auto;}",
+        ".prose {text-align: left; max-width: min(800px, 100%); margin: auto;}",
         "img {width: 100%;}"
       ],
       "settings": {
