@@ -60,6 +60,7 @@
     <div class="v-stack gap-10 sm:gap-16">
       <div class="v-stack gap-8 sm:gap-12">
         <div class="v-stack gap-4.5">
+          <h1 class="h1">{{ article.title }}</h1>
           {%- if section.settings.show_date or section.settings.show_category and article.tags.size > 0 -%}
             <div class="h-stack gap-4">
               {%- if section.settings.show_date -%}
@@ -75,8 +76,6 @@
               {%- endif -%}
             </div>
           {%- endif -%}
-
-          <h1 class="h1">{{ article.title }}</h1>
         </div>
 
         <div class="prose">

@@ -68,6 +68,12 @@
       <script src="{{ 'vendor/qrcode.js' | shopify_asset_url }}" defer></script>
     {%- endif -%}
 
+    {%- if request.page_type == 'article' -%}
+      <script src="{{ 'animate_article.js' | asset_url }}" defer></script>
+      <script src="{{ 'animate.js' | asset_url }}" defer></script>
+      {{- 'animate.css' | asset_url | stylesheet_tag: preload: true -}}
+    {%- endif -%}
+
     <script>
       if (!(HTMLScriptElement.supports && HTMLScriptElement.supports('importmap'))) {
         const importMapPolyfill = document.createElement('script');
@@ -100,7 +106,7 @@
       function registerTouchEvents() {
         // all product card elements with secondary image
         var productCards = document.querySelectorAll('.product-card__figure:has(.product-card__image--secondary)');
-          
+
         // add touchstart and touchend event
         for(let productCard of productCards) {
           productCard.addEventListener('touchstart', (e) => {
