@@ -30,6 +30,9 @@
     },
     "main": {
       "type": "main-blog",
+      "custom_css": [
+        ".section-spacing--tight {padding-block-end: 5rem;}"
+      ],
       "settings": {
         "color_scheme": "",
         "show_blog_title": false,
@@ -40,7 +43,7 @@
         "featured_blog_post_color_scheme": "",
         "show_category": false,
         "show_excerpt": true,
-        "show_read_more": true
+        "show_read_more": false
       }
     }
   },
