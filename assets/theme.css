@@ -21,6 +21,7 @@ body {
   letter-spacing: var(--text-letter-spacing);
   margin: 0;
   position: relative;
+  /* overflow-x: hidden; */
 }
 
 hr {
@@ -708,7 +709,7 @@ height-observer {
   content: "";
   border-radius: inherit;
   opacity: .4;
-  background: currentColor;
+  background: gray;
   transition: opacity .25s, background .25s;
   position: absolute;
   inset: 0;

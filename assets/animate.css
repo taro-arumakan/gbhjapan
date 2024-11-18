@@ -20,21 +20,29 @@
 }
 
 .reveal_tran_tb {
+  overflow: hidden;
+  visibility: hidden;
   opacity: 0;
   transform: translate(0, -4vw);
 }
 
 .reveal_tran_bt {
+  overflow: hidden;
+  visibility: hidden;
   opacity: 0;
   transform: translate(0, 4vw);
 }
 
 .reveal_tran_rl {
+  overflow: hidden;
+  visibility: hidden;
   opacity: 0;
   transform: translate(4vw, 0);
 }
 
 .reveal_tran_lr {
+  overflow: hidden;
+  visibility: hidden;
   opacity: 0;
   transform: translate(-4vw, 0);
 }
@@ -43,6 +51,7 @@
 .reveal_tran_bt.active,
 .reveal_tran_rl.active,
 .reveal_tran_lr.active {
+  visibility: visible;
   transition: transform 750ms ease-in-out 100ms, opacity 750ms ease-in-out 100ms;
   opacity: 1;
   transform: translate(0, 0);
@@ -52,7 +61,6 @@
 .reveal_tran_bt.hidden,
 .reveal_tran_rl.hidden,
 .reveal_tran_lr.hidden {
-  visibility: hidden;
   opacity: 0;
   transition: transform 1s, visibility 0s 1s, opacity 1s ease-out;
 }
