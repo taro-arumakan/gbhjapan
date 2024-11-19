@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow": {
@@ -6,15 +15,15 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2024FW_Aprel_1_1.png",
-            "mobile_image": "shopify:\/\/shop_images\/2024FW_Aprel_2_1.png",
+            "image": "shopify://shop_images/2024FW_Aprel_1_1.png",
+            "mobile_image": "shopify://shop_images/2024FW_Aprel_2_1.png",
             "subheading": "",
             "title": "GBH Apparel",
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "View Products",
-            "button_1_link": "shopify:\/\/collections\/apparel",
+            "button_1_link": "shopify://collections/apparel",
             "button_1_style": "link",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -33,15 +42,15 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/topbanner_pc_Cosme1.png",
-            "mobile_image": "shopify:\/\/shop_images\/topbanner_sp_Cosme1_b8b3f21a-ee9d-4870-9386-4866e9254e5e.png",
+            "image": "shopify://shop_images/topbanner_pc_Cosme1.png",
+            "mobile_image": "shopify://shop_images/topbanner_sp_Cosme1_b8b3f21a-ee9d-4870-9386-4866e9254e5e.png",
             "subheading": "",
             "title": "for BATHROOM",
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "View Products",
-            "button_1_link": "shopify:\/\/collections\/bathroom",
+            "button_1_link": "shopify://collections/bathroom",
             "button_1_style": "link",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -60,15 +69,15 @@
         "image_iUXDng": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/topbanner_pc_Cosme2.png",
-            "mobile_image": "shopify:\/\/shop_images\/topbanner_sp_Cosme2_cc3b02ea-9298-4554-bfba-29877a0c252f.png",
+            "image": "shopify://shop_images/topbanner_pc_Cosme2.png",
+            "mobile_image": "shopify://shop_images/topbanner_sp_Cosme2_cc3b02ea-9298-4554-bfba-29877a0c252f.png",
             "subheading": "DAMAGE REPAIR",
             "title": "HAIR OIL SERUM",
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "View Products",
-            "button_1_link": "shopify:\/\/products\/damage-repair-hair-oil-serum",
+            "button_1_link": "shopify://products/damage-repair-hair-oil-serum",
             "button_1_style": "link",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -87,15 +96,15 @@
         "image_WyXUCx": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/topbanner_pc_Cosme5.png",
-            "mobile_image": "shopify:\/\/shop_images\/topbanner_sp_Cosme5_eed6ed74-f1a1-41f0-ab92-e5d7ea7ce15f.png",
+            "image": "shopify://shop_images/topbanner_pc_Cosme5.png",
+            "mobile_image": "shopify://shop_images/topbanner_sp_Cosme5_eed6ed74-f1a1-41f0-ab92-e5d7ea7ce15f.png",
             "subheading": "",
             "title": "SCENTED HAIR & BODY MIST",
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "View Products",
-            "button_1_link": "shopify:\/\/products\/scented-hair-body-mist-neroli-musk",
+            "button_1_link": "shopify://products/scented-hair-body-mist-neroli-musk",
             "button_1_style": "link",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -114,15 +123,15 @@
         "image_iCmgPM": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/topbanner_pc_Home_2.png",
-            "mobile_image": "shopify:\/\/shop_images\/topbanner_sp_Home_2.png",
+            "image": "shopify://shop_images/topbanner_pc_Home_2.png",
+            "mobile_image": "shopify://shop_images/topbanner_sp_Home_2.png",
             "subheading": "",
             "title": "for KITCHEN",
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "View Products",
-            "button_1_link": "shopify:\/\/collections\/kitchen",
+            "button_1_link": "shopify://collections/kitchen",
             "button_1_style": "link",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -141,15 +150,15 @@
         "image_xqfkN9": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/topbanner_pc_Home_4.png",
-            "mobile_image": "shopify:\/\/shop_images\/topbanner_sp_Home_4_0c261e18-268e-4f57-b428-ae49de7af579.png",
+            "image": "shopify://shop_images/topbanner_pc_Home_4.png",
+            "mobile_image": "shopify://shop_images/topbanner_sp_Home_4_0c261e18-268e-4f57-b428-ae49de7af579.png",
             "subheading": "3-FOLDING",
             "title": "UMBRELLA",
             "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "content_max_width": 780,
             "button_1_text": "View Products",
-            "button_1_link": "shopify:\/\/products\/gbh-home-3-folding-umbrella",
+            "button_1_link": "shopify://products/gbh-home-3-folding-umbrella",
             "button_1_style": "link",
             "button_1_background": "#ffffff",
             "button_1_text_color": "#000000",
@@ -278,7 +287,7 @@
           "settings": {
             "style": "outline",
             "text": "View All",
-            "url": "shopify:\/\/collections\/apparel",
+            "url": "shopify://collections/apparel",
             "background": "",
             "text_color": ""
           }
@@ -294,9 +303,9 @@
       "settings": {
         "color_scheme": "scheme-c372248c-3e6c-4d0c-941c-db563a8b2be1",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/SP_Category_banner_apparel2_6.png",
-        "mobile_image": "shopify:\/\/shop_images\/Apparel_BANNER_319d5b56-a8fc-44f8-a2ab-eeb85a4d7839.png",
-        "image_url": "shopify:\/\/collections\/apparel",
+        "image": "shopify://shop_images/SP_Category_banner_apparel2_6.png",
+        "mobile_image": "shopify://shop_images/Apparel_BANNER_319d5b56-a8fc-44f8-a2ab-eeb85a4d7839.png",
+        "image_url": "shopify://collections/apparel",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -358,7 +367,7 @@
           "settings": {
             "style": "solid",
             "text": "view all",
-            "url": "shopify:\/\/collections\/home",
+            "url": "shopify://collections/home",
             "background": "",
             "text_color": ""
           }
@@ -374,9 +383,9 @@
       "settings": {
         "color_scheme": "scheme-c372248c-3e6c-4d0c-941c-db563a8b2be1",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/SP_Category_banner_home_5_1.png",
-        "mobile_image": "shopify:\/\/shop_images\/HOME_BANNER_2.png",
-        "image_url": "shopify:\/\/collections\/home",
+        "image": "shopify://shop_images/SP_Category_banner_home_5_1.png",
+        "mobile_image": "shopify://shop_images/HOME_BANNER_2.png",
+        "image_url": "shopify://collections/home",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -393,7 +402,7 @@
         "image_Xc76Gg": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HOME_BANNER_2_30d49006-81d8-4061-9171-c1098457485b.png",
+            "image": "shopify://shop_images/HOME_BANNER_2_30d49006-81d8-4061-9171-c1098457485b.png",
             "subheading": "",
             "title": "HOME",
             "mobile_text_position": "place-self-center text-center",
@@ -548,7 +557,7 @@
           "settings": {
             "style": "solid",
             "text": "View All",
-            "url": "shopify:\/\/collections\/cosmetics",
+            "url": "shopify://collections/cosmetics",
             "background": "",
             "text_color": ""
           }
@@ -564,9 +573,9 @@
       "settings": {
         "color_scheme": "scheme-c372248c-3e6c-4d0c-941c-db563a8b2be1",
         "image_size": "auto",
-        "image": "shopify:\/\/shop_images\/SP_Category_banner_cosme.png",
-        "mobile_image": "shopify:\/\/shop_images\/COSME_BANNER_1_8ec98b53-76d9-4032-b712-3b989944280f.png",
-        "image_url": "shopify:\/\/collections\/cosmetics",
+        "image": "shopify://shop_images/SP_Category_banner_cosme.png",
+        "mobile_image": "shopify://shop_images/COSME_BANNER_1_8ec98b53-76d9-4032-b712-3b989944280f.png",
+        "image_url": "shopify://collections/cosmetics",
         "allow_transparent_header": false,
         "reveal_on_scroll": true,
         "remove_vertical_spacing": true,
@@ -583,7 +592,7 @@
         "image_dLbWTB": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/COSME_BANNER_1_8ec98b53-76d9-4032-b712-3b989944280f.png",
+            "image": "shopify://shop_images/COSME_BANNER_1_8ec98b53-76d9-4032-b712-3b989944280f.png",
             "subheading": "",
             "title": "COSMETICS",
             "mobile_text_position": "place-self-center text-center",
@@ -724,7 +733,7 @@
         "image_tLTnyt": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Apparel_BANNER_319d5b56-a8fc-44f8-a2ab-eeb85a4d7839.png",
+            "image": "shopify://shop_images/Apparel_BANNER_319d5b56-a8fc-44f8-a2ab-eeb85a4d7839.png",
             "subheading": "",
             "title": "APPAREL",
             "mobile_text_position": "place-self-center text-center",
@@ -832,7 +841,7 @@
           "settings": {
             "color_scheme": "",
             "collection": "home",
-            "image": "shopify:\/\/shop_images\/HOME_BANNER_2.png",
+            "image": "shopify://shop_images/HOME_BANNER_2.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
@@ -848,7 +857,7 @@
           "settings": {
             "color_scheme": "",
             "collection": "cosmetics",
-            "image": "shopify:\/\/shop_images\/COSME_BANNER_1.png",
+            "image": "shopify://shop_images/COSME_BANNER_1.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
@@ -864,7 +873,7 @@
           "settings": {
             "color_scheme": "",
             "collection": "apparel",
-            "image": "shopify:\/\/shop_images\/Apparel_BANNER.png",
+            "image": "shopify://shop_images/Apparel_BANNER.png",
             "expand_collection": false,
             "content_position": "place-self-end-center text-center",
             "subheading": "",
