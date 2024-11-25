@@ -1,0 +1,225 @@
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "custom_css": [
+        ".section-spacing {padding-block-end: 0;}",
+        ".collection-description {display: none;}",
+        ".content-over-media > :is(img, video, iframe, svg, video-media),.content-over-media > picture img {transform: scale(1.15) translateY(3%) !important;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image": "shopify:\/\/shop_images\/2024_bf_banner_pc_2.png",
+        "image_size": "auto",
+        "allow_transparent_header": false,
+        "reveal": true,
+        "enable_parallax": true,
+        "show_image": true,
+        "show_collection_title": false,
+        "show_collection_description": false,
+        "show_breadcrumb": true,
+        "content_width": "xs",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "featured_collections_47DCGU": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_d8JFii": {
+          "type": "collection",
+          "settings": {
+            "collection": "black-friday-apparel",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "APPAREL"
+          }
+        }
+      },
+      "block_order": [
+        "collection_d8JFii"
+      ],
+      "custom_css": [
+        "h2 {display: none;}",
+        ".container {margin-bottom: 2rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "featured_collections_g8Re43": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_PizB9z": {
+          "type": "collection",
+          "settings": {
+            "collection": "black-friday-cosmetics",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "COSMETICS"
+          }
+        }
+      },
+      "block_order": [
+        "collection_PizB9z"
+      ],
+      "custom_css": [
+        "h2 {display: none;}",
+        ".container {margin-bottom: 2rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "featured_collections_HHBzY8": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_wtJjVx": {
+          "type": "collection",
+          "settings": {
+            "collection": "black-friday-home",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "HOME"
+          }
+        }
+      },
+      "block_order": [
+        "collection_wtJjVx"
+      ],
+      "custom_css": [
+        "h2 {display: none;}",
+        ".container {margin-bottom: 2rem;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "collection_list_Yx6dwg": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_WCqf4X": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "black-friday-apparel",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "APPAREL",
+            "button_link": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15
+          }
+        },
+        "collection_3kCdDj": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "black-friday-cosmetics",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "COSMETICS",
+            "button_link": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15
+          }
+        },
+        "collection_wRbYRB": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "black-friday-home",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "",
+            "button_text": "HOME",
+            "button_link": "",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15
+          }
+        }
+      },
+      "block_order": [
+        "collection_WCqf4X",
+        "collection_3kCdDj",
+        "collection_wRbYRB"
+      ],
+      "custom_css": [
+        ".content-over-media > :is(img, video, iframe, svg, video-media),.content-over-media > picture img {aspect-ratio: 5 \/ 7;}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": true,
+        "collections_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "color_scheme": "",
+        "hide_product_information": false,
+        "products_per_page": 48,
+        "products_per_row_mobile": "2",
+        "products_size_desktop": "medium",
+        "show_grid_mode_selector": true,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "filter_layout": "drawer",
+        "quick_links_menu": "",
+        "show_sort_by": true,
+        "show_filters": true,
+        "show_results_count": true,
+        "show_filter_group_name": false,
+        "show_filter_values_count": true,
+        "open_filters_by_default": false
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "featured_collections_47DCGU",
+    "featured_collections_g8Re43",
+    "featured_collections_HHBzY8",
+    "collection_list_Yx6dwg",
+    "main"
+  ]
+}
