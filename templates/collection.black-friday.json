@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "collection-banner": {
@@ -9,7 +18,7 @@
       ],
       "settings": {
         "color_scheme": "",
-        "image": "shopify:\/\/shop_images\/2024_bf_banner_pc_2.png",
+        "image": "shopify://shop_images/2024_bf_banner_pc_2.png",
         "image_size": "auto",
         "allow_transparent_header": false,
         "reveal": true,
@@ -177,7 +186,7 @@
         "collection_wRbYRB"
       ],
       "custom_css": [
-        ".content-over-media > :is(img, video, iframe, svg, video-media),.content-over-media > picture img {aspect-ratio: 5 \/ 7;}"
+        ".content-over-media > :is(img, video, iframe, svg, video-media),.content-over-media > picture img {aspect-ratio: 5 / 7;}"
       ],
       "settings": {
         "color_scheme": "",
