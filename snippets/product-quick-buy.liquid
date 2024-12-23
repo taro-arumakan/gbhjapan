@@ -31,13 +31,13 @@ Supported variables
     <div class="quick-buy-modal__gallery-wrapper">
       {%- render 'product-gallery',
           product: product,
-          desktop_layout: 'carousel_dots',
-          mobile_controls: 'arrows',
+          desktop_layout: 'carousel_thumbnails_bottom',
+          mobile_controls: 'thumbnails',
           enable_media_autoplay: section.settings.enable_media_autoplay,
           enable_video_looping: section.settings.enable_video_looping,
           enable_image_zoom: false
       -%}
-      
+
       <div class="quick-buy-modal__mobile-info v-stack gap-1 justify-center text-center sm:hidden">
         <a href="{{ product.url }}" class="product-title h6">{{ product.title }}</a>
         {% render 'price-list', product: product, variant: product.selected_or_first_available_variant, hide_unit_price: true, form_id: product_form_id, context: 'card' %}
