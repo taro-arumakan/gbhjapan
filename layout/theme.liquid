@@ -128,8 +128,12 @@
 
     {{- 'theme.css' | asset_url | stylesheet_tag: preload: true -}}
 
-    {% if request.host == "apparel.gbhjapan.com" and request.path != "/collections/apparel" %}
-      <meta http-equiv="refresh" content="0; URL='/collections/apparel'" />
+    {% if request.host == "apparel.gbhjapan.com" %}
+      {% if request.path == "/" %}
+        <meta http-equiv="refresh" content="0; URL='/collections/apparel'" />
+      {% else %}
+        <meta http-equiv="refresh" content="0; URL='https://gbhjapan.com{{ request.path }}'" />
+      {% endif %}
     {% endif %}
   </head>
 
