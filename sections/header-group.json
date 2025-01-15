@@ -22,6 +22,7 @@
         },
         "message_VBGCeH": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "<a href=\"/pages/年末年始の配送-お問い合わせのお知らせ\" title=\"年末年始の配送 / お問い合わせのお知らせ\">年末年始の配送 / お問い合わせのお知らせ</a>"
           }
