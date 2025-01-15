@@ -127,6 +127,10 @@
     {{ content_for_header }}
 
     {{- 'theme.css' | asset_url | stylesheet_tag: preload: true -}}
+
+    {% if request.host == "apparel.gbhjapan.com" and request.path != "/collections/apparel" %}
+      <meta http-equiv="refresh" content="0; URL='/collections/apparel'" />
+    {% endif %}
   </head>
 
   {% liquid
