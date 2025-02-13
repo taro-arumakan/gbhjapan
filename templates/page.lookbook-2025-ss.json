@@ -1,0 +1,277 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "images_list_w3hJgj": {
+      "type": "images-list",
+      "blocks": {
+        "image_wRAG9J": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_1.jpg"
+          }
+        },
+        "image_KqQ3Ha": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_2.jpg"
+          }
+        },
+        "image_iVdmTm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_3.jpg"
+          }
+        },
+        "image_LeYMpW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_4.jpg"
+          }
+        },
+        "image_fhAbqF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_5.jpg"
+          }
+        },
+        "image_EVpNnD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_6.jpg"
+          }
+        },
+        "image_QFwPMG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_7.jpg"
+          }
+        },
+        "image_AL3xH7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_8.jpg"
+          }
+        },
+        "image_gjBXA6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_9.jpg"
+          }
+        },
+        "image_QkXBMh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_10.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_wRAG9J",
+        "image_KqQ3Ha",
+        "image_iVdmTm",
+        "image_LeYMpW",
+        "image_fhAbqF",
+        "image_EVpNnD",
+        "image_QFwPMG",
+        "image_AL3xH7",
+        "image_gjBXA6",
+        "image_QkXBMh"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_position": "center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "images_list_UGm3z8": {
+      "type": "images-list",
+      "blocks": {
+        "image_RThXiJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_11.jpg"
+          }
+        },
+        "image_p6P84p": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_12.jpg"
+          }
+        },
+        "image_kYyCFw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_13.jpg"
+          }
+        },
+        "image_4hciQV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_14.jpg"
+          }
+        },
+        "image_cYbEMX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_15.jpg"
+          }
+        },
+        "image_mf6PUq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_16.jpg"
+          }
+        },
+        "image_WGjNBj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_17.jpg"
+          }
+        },
+        "image_Tzf4yJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_18.jpg"
+          }
+        },
+        "image_PAdHBh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_19.jpg"
+          }
+        },
+        "image_MxxKVA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_20.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_RThXiJ",
+        "image_p6P84p",
+        "image_kYyCFw",
+        "image_4hciQV",
+        "image_cYbEMX",
+        "image_mf6PUq",
+        "image_WGjNBj",
+        "image_Tzf4yJ",
+        "image_PAdHBh",
+        "image_MxxKVA"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_position": "center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "images_list_mELJNJ": {
+      "type": "images-list",
+      "blocks": {
+        "image_nDw9Km": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_21.jpg"
+          }
+        },
+        "image_b9Vd8L": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_22.jpg"
+          }
+        },
+        "image_Fx7hBJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_23.jpg"
+          }
+        },
+        "image_EFY3NQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_24.jpg"
+          }
+        },
+        "image_ULHR93": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_25.jpg"
+          }
+        },
+        "image_97RG9z": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_26.jpg"
+          }
+        },
+        "image_PFga6j": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_27.jpg"
+          }
+        },
+        "image_8ydLry": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_28.jpg"
+          }
+        },
+        "image_JH3YpW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_29.jpg"
+          }
+        },
+        "image_NpM6FJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LOOKBOOK_2025_SS_30.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_nDw9Km",
+        "image_b9Vd8L",
+        "image_Fx7hBJ",
+        "image_EFY3NQ",
+        "image_ULHR93",
+        "image_97RG9z",
+        "image_PFga6j",
+        "image_8ydLry",
+        "image_JH3YpW",
+        "image_NpM6FJ"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_position": "center",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "images_list_w3hJgj",
+    "images_list_UGm3z8",
+    "images_list_mELJNJ"
+  ]
+}

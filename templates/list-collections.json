@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -22,59 +31,74 @@
     "multi_column_NjDqgW": {
       "type": "multi-column",
       "blocks": {
-        "image_with_text_4EJH78": {
+        "video_with_text_QBxbqU": {
+          "type": "video_with_text",
+          "settings": {
+            "video": "shopify://files/videos/240807 GBH SHORT A_01.mp4",
+            "autoplay": true,
+            "loop": true,
+            "play_button_background": "#ffffff",
+            "title": "2025 SS",
+            "heading_tag": "h5",
+            "content": "",
+            "link_url": "shopify://pages/lookbook-2025-ss",
+            "link_text": ""
+          }
+        },
+        "image_with_text_7imewP": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/24Winter_LOOKBOOK.png",
+            "image": "shopify://shop_images/24Winter_LOOKBOOK.png",
             "title": "2024 WINTER",
             "heading_tag": "h5",
             "content": "",
-            "link_url": "shopify:\/\/pages\/lookbook-2024-winter",
+            "link_url": "shopify://pages/lookbook-2024-winter",
             "link_text": ""
           }
         },
         "image_with_text_wyqhg6": {
           "type": "image_with_text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/24FW_LOOKBOOK_top1.png",
+            "image": "shopify://shop_images/24FW_LOOKBOOK_top1.png",
             "title": "2024 FW",
             "heading_tag": "h5",
             "content": "",
-            "link_url": "shopify:\/\/pages\/lookbook-2024-fw",
+            "link_url": "shopify://pages/lookbook-2024-fw",
             "link_text": ""
           }
         },
         "video_with_text_kKfyUx": {
           "type": "video_with_text",
           "settings": {
-            "video": "shopify:\/\/files\/videos\/202403_GBH_SHORT_01(thum).mp4",
+            "video": "shopify://files/videos/202403_GBH_SHORT_01(thum).mp4",
             "autoplay": true,
             "loop": true,
             "play_button_background": "#ffffff",
             "title": "2024 SUMMER",
             "heading_tag": "h5",
             "content": "",
-            "link_url": "shopify:\/\/collections\/lookbook-2024-summer",
+            "link_url": "shopify://collections/lookbook-2024-summer",
             "link_text": ""
           }
         },
         "video_with_text_68DPyL": {
           "type": "video_with_text",
           "settings": {
-            "video": "shopify:\/\/files\/videos\/GBH APPAREL 24 spring 7(thum).mp4",
+            "video": "shopify://files/videos/GBH APPAREL 24 spring 7(thum).mp4",
             "autoplay": true,
             "loop": true,
             "play_button_background": "#ffffff",
             "title": "2024 SPRING",
             "heading_tag": "h5",
             "content": "",
-            "link_url": "shopify:\/\/collections\/lookbook-2024-spring",
+            "link_url": "shopify://collections/lookbook-2024-spring",
             "link_text": ""
           }
         }
       },
       "block_order": [
-        "image_with_text_4EJH78",
+        "video_with_text_QBxbqU",
+        "image_with_text_7imewP",
         "image_with_text_wyqhg6",
         "video_with_text_kKfyUx",
         "video_with_text_68DPyL"
