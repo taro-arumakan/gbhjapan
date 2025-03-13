@@ -1,0 +1,132 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "allow_transparent_header": true,
+        "reveal": true,
+        "enable_parallax": true,
+        "show_image": true,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "show_breadcrumb": true,
+        "content_width": "xs",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "media_grid_UTrra7": {
+      "type": "media-grid",
+      "blocks": {
+        "image_TFqgB4": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/upload_20250227_APB1CT020BKFF_04_5.jpg",
+            "column_count": "8",
+            "row_count": 2,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_kcKMhz": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/upload_20250227_APB1SK010LBS_07_8.jpg",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_qWapGN": {
+          "type": "image",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/upload_20250227_APB1TS010GYFF_03_4.jpg",
+            "column_count": "4",
+            "row_count": 1,
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "place-self-center text-center",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_TFqgB4",
+        "image_kcKMhz",
+        "image_qWapGN"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "desktop_row_height": 210,
+        "mobile_row_height": 100,
+        "section_width": "full",
+        "spacing": "xs",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "color_scheme": "",
+        "hide_product_information": false,
+        "products_per_page": 48,
+        "products_per_row_mobile": "2",
+        "products_size_desktop": "medium",
+        "show_grid_mode_selector": true,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "filter_layout": "drawer",
+        "quick_links_menu": "",
+        "show_sort_by": true,
+        "show_filters": true,
+        "show_results_count": true,
+        "show_filter_group_name": false,
+        "show_filter_values_count": true,
+        "open_filters_by_default": false
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "media_grid_UTrra7",
+    "main"
+  ]
+}
