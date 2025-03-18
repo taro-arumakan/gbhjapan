@@ -5277,7 +5277,7 @@ tfoot td {
   margin-top: 30px;
 }
 
-.header-sidebar__main-panel .header-sidebar__linklist>:is(li:nth-of-type(2),li:nth-last-of-type(3)) {
+.header-sidebar__main-panel .header-sidebar__linklist>:is(li:nth-of-type(3),li:nth-last-of-type(3)) {
   border-block-start-width: 0.8px !important;
   border-color: rgb(var(--text-color) / 0.2);
   margin-top: 30px;
