@@ -14,6 +14,7 @@
       "blocks": {
         "image_AnkU4U": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/POP_UP_WEB_Features_Banner_PC.png",
             "mobile_image": "shopify://shop_images/POP_UP_WEB_Features_Banner_SP.png",
@@ -210,10 +211,10 @@
         "collection_kxNG4j": {
           "type": "collection",
           "settings": {
-            "collection": "25ss",
+            "collection": "new-arrival",
             "products_count": 12,
             "title": "",
-            "link_url": "shopify://collections/25ss",
+            "link_url": "",
             "link_text": "View all"
           }
         }
