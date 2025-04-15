@@ -1469,7 +1469,7 @@ height-observer {
 }
 
 .switch:checked {
-  background: rgb(var(--accent));
+  background: white;
 }
 
 .switch:checked:after {

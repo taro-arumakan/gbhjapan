@@ -38,13 +38,13 @@
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
         "filter_layout": "drawer",
-        "quick_links_menu": "",
+        "quick_links_menu": "categories",
         "show_sort_by": true,
         "show_filters": true,
         "show_results_count": true,
         "show_filter_group_name": false,
         "show_filter_values_count": true,
-        "open_filters_by_default": false
+        "open_filters_by_default": true
       }
     }
   },
