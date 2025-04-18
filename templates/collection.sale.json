@@ -14,12 +14,13 @@
       "custom_css": [
         ".section-spacing {padding-block-end: 0;}",
         ".collection-description {display: none;}",
-        ".content-over-media > :is(img, video, iframe, svg, video-media),.content-over-media > picture img {transform: scale(1.15) translateY(3%) !important; object-fit: contain;}"
+        ".content-over-media > :is(img, video, iframe, svg, video-media),.content-over-media > picture img {transform: scale(1) !important;}"
       ],
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
-        "image": "shopify://shop_images/GBH_2025_New_Year_Holiday_PC.png",
-        "image_size": "xs",
+        "image": "shopify://shop_images/2025gw_banner_pc.png",
+        "mobile_image": "shopify://shop_images/2025gw_banner_m.png",
+        "image_size": "auto",
         "allow_transparent_header": false,
         "reveal": true,
         "enable_parallax": true,
@@ -38,7 +39,7 @@
         "collection_wtJjVx": {
           "type": "collection",
           "settings": {
-            "collection": "holiday-sale-home",
+            "collection": "home",
             "products_count": 8,
             "title": "",
             "link_url": "",
@@ -51,7 +52,8 @@
       ],
       "custom_css": [
         "h2 {display: none;}",
-        ".container {margin-bottom: 2rem;}"
+        ".container {margin-bottom: 2rem;}",
+        ".section-spacing {padding-block-end: 5rem;}"
       ],
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
@@ -71,7 +73,7 @@
         "collection_d8JFii": {
           "type": "collection",
           "settings": {
-            "collection": "holiday-sale-apparel",
+            "collection": "apparel",
             "products_count": 8,
             "title": "",
             "link_url": "",
@@ -84,7 +86,8 @@
       ],
       "custom_css": [
         "h2 {display: none;}",
-        ".container {margin-bottom: 2rem;}"
+        ".container {margin-bottom: 2rem;}",
+        ".section-spacing {padding-block-end: 5rem;}"
       ],
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
@@ -104,7 +107,7 @@
         "collection_PizB9z": {
           "type": "collection",
           "settings": {
-            "collection": "holiday-sale-cosmetics",
+            "collection": "cosmetics",
             "products_count": 8,
             "title": "",
             "link_url": "",
@@ -117,7 +120,8 @@
       ],
       "custom_css": [
         "h2 {display: none;}",
-        ".container {margin-bottom: 2rem;}"
+        ".container {margin-bottom: 2rem;}",
+        ".section-spacing{padding-block-end: 5rem; }"
       ],
       "settings": {
         "color_scheme": "scheme-b741e691-820a-434f-b472-a97b90b7b729",
@@ -185,6 +189,7 @@
         "collection_WCqf4X",
         "collection_3kCdDj"
       ],
+      "disabled": true,
       "custom_css": [
         ".content-over-media > :is(img, video, iframe, svg, video-media),.content-over-media > picture img {aspect-ratio: 5 / 7;}"
       ],
