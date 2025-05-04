@@ -41,12 +41,13 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
         },
         "complementary_products": {
           "type": "complementary_products",
           "settings": {
-            "title": "一緒に購入",
+            "title": "この商品はオプションとしてのみご購入頂けます:",
             "products_count": 2,
             "show_below_gallery": false,
             "stack_products": true,
@@ -55,6 +56,7 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
@@ -91,6 +93,10 @@
         "payment_terms",
         "separator",
         "description"
+      ],
+      "custom_css": [
+        ".complementary-products {row-gap: 0; margin-inline: unset;}",
+        ".complementary-products__header {text-align: left; justify-content: left;}"
       ],
       "settings": {
         "color_scheme": "",
