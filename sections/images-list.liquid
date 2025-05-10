@@ -37,20 +37,23 @@
       {%- assign trans_classes = "reveal_tran_bt,reveal_tran_rl,reveal_tran_lr,reveal_tran_tb" | split: "," %}
       {%- for block in section.blocks -%}
         {%-  assign trans_class_index = forloop.index | minus: 1 | modulo: 4 -%}
-        <div class="images-list-item {{ trans_classes[trans_class_index] }}">
-          {%- liquid
-            if images.size == 0 and forloop.first
-              echo 'image' | placeholder_svg_tag: 'images-with-text-scroll__image placeholder'
-            elsif block.settings.image
-              assign loading = nil
+        <div class="images-list-item {{ trans_classes[trans_class_index] }}" {{ block.shopify_attributes }}>
+          {%- if block.type == 'image' -%}
+            {%- liquid
+              if images.size == 0 and forloop.first
+                echo 'image' | placeholder_svg_tag: 'images-with-text-scroll__image placeholder'
+              elsif block.settings.image
+                assign loading = nil
 
-              unless forloop.first
-                assign loading = 'lazy'
-              endunless
-
-              echo block.settings.image | image_url: width: block.settings.image.width | image_tag: loading: loading, sizes: '(max-width: 699px) 210px, (max-width: 999px) 440px, 575px', widths: '210,420,440,575,630,880,1150,1320,1725', style: 'object-position: inherit', class: 'images-list__image'
-            endif
-          -%}
+                unless forloop.first
+                  assign loading = 'lazy'
+                endunless
+                echo block.settings.image | image_url: width: block.settings.image.width | image_tag: loading: loading, sizes: '100vw', widths: '200,300,400,500,600,700,800,900,1000,1200,1400,1600,1800,2000,2200,2400,2600,2800,3000,3200', style: 'object-position: inherit', class: 'images-list__image'
+              endif
+            -%}
+          {%- else -%}
+            {%- render 'media', media: block.settings.video, autoplay: block.settings.autoplay, loop: true, controls: block.settings.show_controls -%}
+          {%- endif -%}
         </div>
       {%- endfor -%}
     </div>
@@ -60,7 +63,7 @@
 {% schema %}
 {
   "name": "t:sections.images_list.name",
-  "class": "shopify-section--images-with-text-scroll",
+  "class": "shopify-section--images-list",
   "tag": "section",
   "max_blocks": 10,
   "disabled_on": {
@@ -146,6 +149,29 @@
           "info": "t:sections.images_list.blocks.image.image_info"
         }
       ]
+    },
+    {
+      "type": "video",
+      "name": "t:sections.images_list.blocks.video.name",
+      "settings": [
+        {
+          "type": "video",
+          "id": "video",
+          "label": "t:global.video.video"
+        },
+        {
+          "type": "checkbox",
+          "id": "autoplay",
+          "label": "t:global.video.autoplay",
+          "info": "t:global.video.autoplay_info",
+          "default": true
+        },
+        {
+          "type": "checkbox",
+          "id": "show_controls",
+          "label": "t:global.video.show_controls",
+          "default": false
+        }      ]
     }
   ],
   "presets": [
