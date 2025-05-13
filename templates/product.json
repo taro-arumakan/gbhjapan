@@ -46,7 +46,7 @@
         "complementary_products": {
           "type": "complementary_products",
           "settings": {
-            "title": "一緒に購入",
+            "title": "こちらもおすすめ",
             "products_count": 2,
             "show_below_gallery": false,
             "stack_products": true,
